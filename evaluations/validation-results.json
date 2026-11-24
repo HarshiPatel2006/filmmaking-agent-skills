@@ -1,0 +1,328 @@
+{
+  "structural_validation": {
+    "status": "PASS",
+    "counts": {
+      "skills": 62,
+      "categories": 16,
+      "workflows": 7,
+      "behavioral_cases": 62,
+      "related_edges": 186,
+      "schemas": 8
+    },
+    "errors": []
+  },
+  "regression_tests": "test_bad_reference (test_repository.ValidationTests.test_bad_reference) ... ok\ntest_bad_skill_name (test_repository.ValidationTests.test_bad_skill_name) ... ok\ntest_complete_repository (test_repository.ValidationTests.test_complete_repository) ... ok\ntest_dependency_cycle (test_repository.ValidationTests.test_dependency_cycle) ... ok\ntest_invalid_source_page (test_repository.ValidationTests.test_invalid_source_page) ... ok\ntest_missing_entrypoint (test_repository.ValidationTests.test_missing_entrypoint) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.685s\n\nOK\n",
+  "individual_skill_packages": [
+    {
+      "skill": "action-continuity",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "animatic-and-shot-flow",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "blocking-and-staging",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "camera-angle-and-perspective",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "camera-angle-projection",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "camera-movement-intent",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "camera-preflight",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "character-arc",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "character-backstory",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "character-motivation",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "close-ups-and-inserts",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "composition-hierarchy",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "conflict-and-stakes",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "coverage-planning",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "creative-quality-audit",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "cutting-on-action",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "depth-staging",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "dialogue-and-subtext",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "directorial-interpretation",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "editing-rhythm",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "event-and-interview-coverage",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "exposition-and-backstory",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "exterior-lighting",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "fire-and-practical-effects",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "frame-format",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "genre-and-tone",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "group-dialogue-staging",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "lens-and-focus",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "lighting-continuity",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "lighting-intent",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "location-geography",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "location-sound",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "look-development",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "mobile-staging",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "motivated-lighting",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "mystery-lighting",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "night-and-street-lighting",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "open-closed-framing",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "pan-and-tilt",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "performance-direction",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "point-of-view",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "portrait-lighting",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "premise-and-logline",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "production-design-brief",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "prop-and-costume-continuity",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "scene-construction",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "screen-direction",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "script-revision",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "selective-light-and-shadow",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "shot-flow-audit",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "shot-size-and-coverage",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "story-architecture",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "storyboard-design",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "subject-separation",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "temporal-editing",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "theme-and-motif",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "tracking-and-dolly",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "tracking-choreography",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "transitions-and-montage",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "two-person-dialogue",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "visual-information-design",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    },
+    {
+      "skill": "weather-and-atmosphere",
+      "local_skill_validator": "PASS",
+      "package": "PASS"
+    }
+  ],
+  "behavioral_evaluations": "NOT RUN; cases provided, no performance claim"
+}

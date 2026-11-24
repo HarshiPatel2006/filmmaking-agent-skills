@@ -1,0 +1,4 @@
+interface:
+  display_name: Lens and focus
+  short_description: Select field of view, camera distance, depth of field and focus
+    behavior appropriate to a shot.

@@ -1,0 +1,4 @@
+interface:
+  display_name: Coverage planning
+  short_description: Build a shot list that supplies the editor with necessary narrative
+    coverage and feasible alternatives.

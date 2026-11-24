@@ -1,0 +1,4 @@
+interface:
+  display_name: Frame format
+  short_description: Choose aspect ratio and framing safe areas for a coherent composition
+    across intended delivery formats.

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Quality issue",
+  "type": "object",
+  "required": [
+    "issue_id",
+    "evidence",
+    "severity",
+    "cause",
+    "repair",
+    "recheck"
+  ],
+  "properties": {
+    "issue_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "shot_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "evidence": {
+      "type": "string",
+      "minLength": 1
+    },
+    "severity": {
+      "type": "string",
+      "enum": [
+        "critical",
+        "major",
+        "minor",
+        "preference"
+      ]
+    },
+    "cause": {
+      "type": "string",
+      "minLength": 1
+    },
+    "repair": {
+      "type": "string",
+      "minLength": 1
+    },
+    "recheck": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "observed",
+        "verified",
+        "unknown"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: Camera preflight
+  short_description: Prepare camera or capture workflow for reliable focus, exposure,
+    framing, stabilization and recording.

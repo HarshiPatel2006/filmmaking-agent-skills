@@ -1,0 +1,4 @@
+interface:
+  display_name: Mobile staging
+  short_description: Design scenes where actors move through space while the camera
+    or framing responds coherently.

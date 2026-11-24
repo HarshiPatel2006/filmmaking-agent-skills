@@ -1,0 +1,4 @@
+interface:
+  display_name: Camera angle projection
+  short_description: Use simplified top and elevation views to estimate camera placement,
+    framing and feasibility.

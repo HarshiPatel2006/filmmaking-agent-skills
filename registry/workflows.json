@@ -1,0 +1,96 @@
+[
+  {
+    "id": "develop-a-script",
+    "path": "workflows/develop-a-script.md",
+    "skills": [
+      "premise-and-logline",
+      "theme-and-motif",
+      "conflict-and-stakes",
+      "character-motivation",
+      "story-architecture",
+      "scene-construction",
+      "dialogue-and-subtext",
+      "script-revision"
+    ]
+  },
+  {
+    "id": "direct-a-scene",
+    "path": "workflows/direct-a-scene.md",
+    "skills": [
+      "directorial-interpretation",
+      "location-geography",
+      "blocking-and-staging",
+      "performance-direction",
+      "shot-size-and-coverage",
+      "screen-direction",
+      "coverage-planning"
+    ]
+  },
+  {
+    "id": "design-lighting",
+    "path": "workflows/design-lighting.md",
+    "skills": [
+      "lighting-intent",
+      "motivated-lighting",
+      "subject-separation",
+      "portrait-lighting",
+      "lighting-continuity"
+    ]
+  },
+  {
+    "id": "storyboard-to-edit",
+    "path": "workflows/storyboard-to-edit.md",
+    "skills": [
+      "storyboard-design",
+      "camera-angle-projection",
+      "animatic-and-shot-flow",
+      "coverage-planning",
+      "editing-rhythm",
+      "shot-flow-audit"
+    ]
+  },
+  {
+    "id": "continuity-and-quality-review",
+    "path": "workflows/continuity-and-quality-review.md",
+    "skills": [
+      "screen-direction",
+      "action-continuity",
+      "prop-and-costume-continuity",
+      "lighting-continuity",
+      "shot-flow-audit",
+      "creative-quality-audit"
+    ]
+  },
+  {
+    "id": "audio-led-music-video",
+    "path": "workflows/audio-led-music-video.md",
+    "skills": [
+      "premise-and-logline",
+      "theme-and-motif",
+      "story-architecture",
+      "editing-rhythm",
+      "production-design-brief",
+      "storyboard-design",
+      "animatic-and-shot-flow",
+      "coverage-planning",
+      "creative-quality-audit"
+    ]
+  },
+  {
+    "id": "script-to-screen",
+    "path": "workflows/script-to-screen.md",
+    "skills": [
+      "premise-and-logline",
+      "story-architecture",
+      "scene-construction",
+      "production-design-brief",
+      "directorial-interpretation",
+      "storyboard-design",
+      "motivated-lighting",
+      "coverage-planning",
+      "camera-preflight",
+      "editing-rhythm",
+      "creative-quality-audit"
+    ]
+  }
+]

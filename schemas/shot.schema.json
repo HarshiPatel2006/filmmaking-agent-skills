@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Shot",
+  "type": "object",
+  "required": [
+    "shot_id",
+    "scene_id",
+    "purpose",
+    "framing",
+    "viewpoint",
+    "action_start",
+    "action_end"
+  ],
+  "properties": {
+    "shot_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scene_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "purpose": {
+      "type": "string",
+      "minLength": 1
+    },
+    "framing": {
+      "type": "string",
+      "minLength": 1
+    },
+    "viewpoint": {
+      "type": "string",
+      "minLength": 1
+    },
+    "camera_world_position": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "field_of_view": {
+      "type": "string",
+      "minLength": 1
+    },
+    "focus": {
+      "type": "string",
+      "minLength": 1
+    },
+    "movement": {
+      "type": "string",
+      "minLength": 1
+    },
+    "lighting_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "character_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "asset_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "action_start": {
+      "type": "string",
+      "minLength": 1
+    },
+    "action_end": {
+      "type": "string",
+      "minLength": 1
+    },
+    "edit_reason": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "observed",
+        "verified",
+        "unknown"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

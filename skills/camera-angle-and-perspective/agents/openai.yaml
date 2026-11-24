@@ -1,0 +1,4 @@
+interface:
+  display_name: Camera angle and perspective
+  short_description: Select camera height, position and perspective to control spatial
+    clarity and audience relationship.

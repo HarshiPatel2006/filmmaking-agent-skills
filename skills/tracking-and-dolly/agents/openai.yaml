@@ -1,0 +1,4 @@
+interface:
+  display_name: Tracking and dolly
+  short_description: Design translating camera moves with perspective change, parallax,
+    focus and dramatic motivation.

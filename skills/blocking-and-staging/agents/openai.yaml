@@ -1,0 +1,4 @@
+interface:
+  display_name: Blocking and staging
+  short_description: Plan actor positions, movement, gaze and physical interaction
+    to express dramatic relationships.

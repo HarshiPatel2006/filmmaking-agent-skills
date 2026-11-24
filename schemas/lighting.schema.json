@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Lighting",
+  "type": "object",
+  "required": [
+    "lighting_id",
+    "intent",
+    "sources",
+    "contrast"
+  ],
+  "properties": {
+    "lighting_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "intent": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "world_direction",
+          "quality",
+          "role"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "world_direction": {
+            "type": "string",
+            "minLength": 1
+          },
+          "quality": {
+            "type": "string",
+            "minLength": 1
+          },
+          "role": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "contrast": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject_separation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "background": {
+      "type": "string",
+      "minLength": 1
+    },
+    "continuity_notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "observed",
+        "verified",
+        "unknown"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Continuity",
+  "type": "object",
+  "required": [
+    "shot_id",
+    "start_state",
+    "end_state"
+  ],
+  "properties": {
+    "shot_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "start_state": {
+      "type": "object"
+    },
+    "end_state": {
+      "type": "object"
+    },
+    "axis_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "screen_direction": {
+      "type": "string",
+      "minLength": 1
+    },
+    "lighting_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "intentional_exceptions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "observed",
+        "verified",
+        "unknown"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

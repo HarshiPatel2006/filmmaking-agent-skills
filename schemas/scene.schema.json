@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Scene",
+  "type": "object",
+  "required": [
+    "scene_id",
+    "purpose",
+    "entry_state",
+    "exit_state"
+  ],
+  "properties": {
+    "scene_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "purpose": {
+      "type": "string",
+      "minLength": 1
+    },
+    "emotional_objective": {
+      "type": "string",
+      "minLength": 1
+    },
+    "location_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "characters": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "entry_state": {
+      "type": "string",
+      "minLength": 1
+    },
+    "exit_state": {
+      "type": "string",
+      "minLength": 1
+    },
+    "required_information": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "observed",
+        "verified",
+        "unknown"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

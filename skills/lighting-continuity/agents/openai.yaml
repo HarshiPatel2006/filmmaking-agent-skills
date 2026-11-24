@@ -1,0 +1,4 @@
+interface:
+  display_name: Lighting continuity
+  short_description: Maintain a believable lighting world across master shots, close-ups,
+    camera moves and different takes.

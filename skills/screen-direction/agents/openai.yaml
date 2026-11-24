@@ -1,0 +1,4 @@
+interface:
+  display_name: Screen direction
+  short_description: Preserve or deliberately change screen direction, action axes
+    and eyelines across coverage.

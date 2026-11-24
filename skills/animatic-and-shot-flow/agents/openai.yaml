@@ -1,0 +1,4 @@
+interface:
+  display_name: Animatic and shot flow
+  short_description: Build and evaluate a timed previsualization before expensive
+    filming or generation.

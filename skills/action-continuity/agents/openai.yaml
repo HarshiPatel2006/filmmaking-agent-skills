@@ -1,0 +1,4 @@
+interface:
+  display_name: Action continuity
+  short_description: Maintain physical and temporal action states across takes, angles,
+    inserts and edits.

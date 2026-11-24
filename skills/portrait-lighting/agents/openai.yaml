@@ -1,0 +1,4 @@
+interface:
+  display_name: Portrait lighting
+  short_description: Light a face or close-up to preserve identity, modeling, eye
+    readability and intended character expression.

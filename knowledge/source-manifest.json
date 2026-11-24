@@ -1,0 +1,52 @@
+[
+  {
+    "source": "SW",
+    "file": "feature_film_screenwriter_s_workbook.pdf",
+    "local_pdf_pages": 94,
+    "pages_with_text_over_50_chars": 93,
+    "text_extraction": "completed",
+    "review": "full text extraction; chapter mapping and selected passage review",
+    "exhaustive_manual_read": false,
+    "sha256": "46edc09a9213989a6ca74d39e18f2be2a316d62c97f0d7da1fc31b35fcc7fba4"
+  },
+  {
+    "source": "KT",
+    "file": "Steven D. Katz - [1991] - Film directing shot by shot.pdf",
+    "local_pdf_pages": 386,
+    "pages_with_text_over_50_chars": 359,
+    "text_extraction": "completed",
+    "review": "full text extraction; chapter mapping and selected passage review",
+    "exhaustive_manual_read": false,
+    "sha256": "64368aaa269d582a033a1ca7717d13ac31893ebc99d7566d67b31996a7ad4540"
+  },
+  {
+    "source": "AL",
+    "file": "Painting With Light - John Alton (Film Photo Art).pdf",
+    "local_pdf_pages": 231,
+    "pages_with_text_over_50_chars": 212,
+    "text_extraction": "completed",
+    "review": "full text extraction; chapter mapping and selected passage review",
+    "exhaustive_manual_read": false,
+    "sha256": "974df9760af71c75ce9aafd65797b95badadcc509e960f09c3e7bead8ff9adb2"
+  },
+  {
+    "source": "MC",
+    "file": "The-5-C-s-of-Cinematography.pdf",
+    "local_pdf_pages": 246,
+    "pages_with_text_over_50_chars": 0,
+    "text_extraction": "image-only",
+    "review": "targeted visual review",
+    "exhaustive_manual_read": false,
+    "sha256": "2c9e25e9fa8a48226467ca20ccacef131e9309b353d5f4fdeb1d5103c726356b"
+  },
+  {
+    "source": "BA",
+    "file": "BonusAppendix.pdf",
+    "local_pdf_pages": 70,
+    "pages_with_text_over_50_chars": 68,
+    "text_extraction": "completed",
+    "review": "full text extraction; chapter mapping and selected passage review",
+    "exhaustive_manual_read": false,
+    "sha256": "62e0cfeb6c4dcac0b6b628cc440d8ae08f688ddb463bca01a586c59e2a2b8c96"
+  }
+]

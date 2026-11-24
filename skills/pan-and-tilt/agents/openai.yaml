@@ -1,0 +1,4 @@
+interface:
+  display_name: Pan and tilt
+  short_description: Plan rotational camera moves that connect subjects, reveal space
+    or follow action.

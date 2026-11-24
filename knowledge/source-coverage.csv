@@ -1,0 +1,57 @@
+source,local_pdf_pages,topic,disposition,skill_ids,notes
+SW,1-8,"Front matter, purpose and screenplay form",partial,"premise-and-logline,script-revision",Historical formatting and attribution; not normative modern formatting.
+SW,9-22,"Development process, idea, theme, premise, character description, pitch",incorporated-selected,"premise-and-logline,theme-and-motif,character-motivation","Original procedures, not reproduced worksheets."
+SW,23-48,"Conflict, character, archetypes, stakes, arc, backstory",incorporated-selected,"conflict-and-stakes,character-motivation,character-arc,character-backstory",Historical personality typologies excluded as factual psychology.
+SW,49-71,"Themes, plots, genre and competing structure models",incorporated-selected,"genre-and-tone,story-architecture,theme-and-motif",Treat multiple structural models as heuristics; no copied beat sheets.
+SW,72-80,"Prewriting, screenplay craft, exposition, dialogue, subtext",incorporated-selected,"scene-construction,dialogue-and-subtext,exposition-and-backstory",Modernize advice and preserve exceptions.
+SW,81-94,"Film dialogue examples, script analysis, low-budget craft, resources",partial,"script-revision,creative-quality-audit",Exclude quoted film dialogue and outdated resources.
+KT,1-15,Front matter and visualization introduction,partial,"directorial-interpretation,storyboard-design",Visual thinking and iterative comparison.
+KT,16-19,1 Visualization,incorporated-selected,"directorial-interpretation,look-development",Experiment within or beyond conventional continuity.
+KT,20-35,2 Production Design,incorporated-selected,"production-design-brief,location-geography",Coordination and spatial planning.
+KT,36-97,3 Storyboards,incorporated-selected,"storyboard-design,animatic-and-shot-flow",Original panel and shot-flow procedure; not reproduced illustrations.
+KT,98-109,4 Visualization: Tools and Techniques,incorporated-selected,"camera-angle-projection,animatic-and-shot-flow,look-development","Photoboards, layout and digital equivalents."
+KT,110-133,5 Production Cycle,incorporated-selected,"coverage-planning,directorial-interpretation,camera-preflight",Preproduction choices and tradeoffs.
+KT,134-157,6 Composing Shots: Spatial Connections,incorporated-selected,"shot-size-and-coverage,screen-direction,shot-flow-audit","Axis, triangle positions, new sightlines and geography."
+KT,158-171,7 Editing: Temporal Connections,incorporated-selected,"temporal-editing,visual-information-design,editing-rhythm","Causal and question-answer links, editorial alternatives."
+KT,172-185,8 The Basics Applied,incorporated-selected,"shot-flow-audit,animatic-and-shot-flow,directorial-interpretation",Graphic and narrative shot relationships.
+KT,186-207,9 Staging Dialogue Sequences,incorporated-selected,"two-person-dialogue,blocking-and-staging",Two-person position and coverage variants.
+KT,208-221,10 Dialogue Staging with Three Subjects,incorporated-selected,"group-dialogue-staging,screen-direction",Changing focal exchange and overlapping space.
+KT,222-233,11 Four or More Player Dialogue Stagings,incorporated-selected,group-dialogue-staging,Group relationships and coverage.
+KT,234-241,12 Mobile Staging,incorporated-selected,"mobile-staging,tracking-choreography",Actor and camera motion choices.
+KT,242-251,13 Depth of the Frame,incorporated-selected,"depth-staging,lens-and-focus",Layering and centers of interest.
+KT,252-271,14 Camera Angles,incorporated-selected,"camera-angle-and-perspective,lens-and-focus",Purpose rather than generic angle symbolism.
+KT,272-279,15 Open and Closed Framings,incorporated-selected,"open-closed-framing,event-and-interview-coverage",Viewer involvement and offscreen space.
+KT,280-291,16 Point of View,incorporated-selected,"point-of-view,visual-information-design",Viewer identification and knowledge.
+KT,292-299,17 The Pan,incorporated-selected,"pan-and-tilt,camera-movement-intent",Rotational move design.
+KT,300-307,18 The Crane Shot,incorporated-selected,"tracking-and-dolly,camera-movement-intent",Vertical translation; no equipment-specific prescription.
+KT,308-319,19 The Tracking Shot,incorporated-selected,tracking-and-dolly,Follow subjects and explore space.
+KT,320-333,20 Tracking Shot Choreography,incorporated-selected,"tracking-choreography,lighting-continuity",Multiple framing events and coordinated movement.
+KT,334-339,21 Transitions,incorporated-selected,"transitions-and-montage,editing-rhythm",Meaningful relations at edit boundaries.
+KT,340-345,22 Format,incorporated-selected,"frame-format,look-development",Framing for chosen medium.
+KT,346-349,23 Parting Shots,partial,creative-quality-audit,Historical predictions not treated as current facts.
+KT,350-386,"Appendix camera angle projection, glossary, reading",partial,camera-angle-projection,Approximate geometry; exclude copied illustrations and historical reading lists.
+AL,1-39,"Front matter, biography, filmography and preface",partial,"lighting-intent,selective-light-and-shadow",Context for artistic approach; not biographical reproduction.
+AL,40-56,1 Hollywood Photography,partial,"directorial-interpretation,camera-preflight,selective-light-and-shadow",Functions of crew and modifiers; obsolete equipment excluded.
+AL,57-82,2 Motion Picture Illumination,incorporated-selected,"lighting-intent,motivated-lighting,subject-separation,lighting-continuity","Source logic, set and subject modeling, control and depth."
+AL,83-95,3 Mystery Lighting,incorporated-selected,"mystery-lighting,fire-and-practical-effects",Visibility and selective source effects; hazardous historical rigging excluded.
+AL,96-119,4 Special Illumination,incorporated-selected,"night-and-street-lighting,weather-and-atmosphere,fire-and-practical-effects","Weather and night appearance, moving light; historical process methods not reproduced."
+AL,120-157,5 The Hollywood Close-up,incorporated-selected,"portrait-lighting,close-ups-and-inserts,lighting-continuity",Face-specific modeling; functional roles not fixture count; exclude discriminatory norms.
+AL,158-175,6 Outdoor Photography,incorporated-selected,"exterior-lighting,lighting-continuity",Available light and mood; film stock specifics omitted.
+AL,176-185,7 Symphony in Snow,partial,"weather-and-atmosphere,exterior-lighting",Reflectance and snow atmosphere; memoir material omitted.
+AL,186-197,8 Ocean Voyage,partial,exterior-lighting,Location observation; travel narrative omitted.
+AL,198-203,9 Visual Music,incorporated-selected,"composition-hierarchy,theme-and-motif,editing-rhythm","Tonal relationships as aesthetic analogy, not universal perceptual law."
+AL,204-206,10 The Portrait Studio,incorporated-selected,portrait-lighting,Transferable face modeling.
+AL,207-210,11 The Laboratory,partial,"look-development,camera-preflight",Test and review actual imagery; chemical lab procedures excluded.
+AL,211-224,"12 Day and Night, Ladies, Watch Your Light",partial,portrait-lighting,Environmental lighting observations; historical gender/beauty prescriptions excluded.
+AL,225-226,13 Motion Picture Theatres,limited,creative-quality-audit,Display context as review consideration; theatre design not operationalized.
+AL,227-231,14 The World Is a Huge Television Studio,limited,look-development,Historical television and photographic reflections; obsolete technical claims omitted.
+MC,1-7,Front matter and prologue,visual-sampled,directorial-interpretation,Conventions as flexible aids.
+MC,8-63,Camera Angles,visual-sampled,"camera-angle-and-perspective,shot-size-and-coverage,point-of-view,lens-and-focus","Camera size, height, objective/subjective/POV and angle examples."
+MC,64-143,Continuity,visual-sampled,"screen-direction,action-continuity,temporal-editing","Action-axis and direction diagrams, matching states, film time."
+MC,144-169,Cutting,visual-sampled,"cutting-on-action,temporal-editing,transitions-and-montage,coverage-planning",Continuity and compilation cutting; editorial needs.
+MC,170-193,Close-ups,visual-sampled,"close-ups-and-inserts,two-person-dialogue","Relative close-up sizes, OTS and cutaway examples."
+MC,194-241,Composition,visual-sampled,"composition-hierarchy,depth-staging,open-closed-framing","Weight, lines, grouping, depth and visual emphasis."
+MC,242-246,Index and closing matter,limited,composition-hierarchy,Index and chapter boundaries inspected; not all closing pages read.
+BA,1-24,1 A Field Guide to Camcorders,partial,camera-preflight,"Capture principles; obsolete tape, formats, shopping and iMovie advice excluded."
+BA,25-54,2 Turning Home Video into Pro Video,incorporated-selected,"camera-preflight,location-sound,pan-and-tilt,composition-hierarchy,coverage-planning","Stability, sound, focus, exposure and alternate views."
+BA,55-70,3 Special Event Filming,incorporated-selected,"event-and-interview-coverage,location-sound,editing-rhythm","Interview, live performance, narrative/performance music videos, nonrepeatable coverage."

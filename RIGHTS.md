@@ -1,0 +1,3 @@
+# Rights and provenance
+
+This repository contains newly authored, operational filmmaking guidance derived from general ideas and methods discussed in supplied books. It does not include the source PDFs, scans, copied diagrams, original screenplay excerpts, or substantial verbatim passages. The source books and their illustrations retain their respective copyright. Source attributions are provided for traceability; citation does not imply a redistribution license. No repository-wide open-source license has been selected on the user's behalf. Choose a license for original contributions before public distribution, and review rights for any future third-party assets. The repository may be kept private pending that decision.

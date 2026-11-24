@@ -1,0 +1,4 @@
+interface:
+  display_name: Camera movement intent
+  short_description: Choose static framing, subject movement or a camera move based
+    on its narrative contribution.

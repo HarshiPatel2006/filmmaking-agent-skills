@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "premise-and-logline",
+    "display_name": "Premise and logline",
+    "category": "creative-development",
+    "category_number": "01",
+    "description": "Develop a film premise, hook and concise pitch from an idea, song, image or theme. Use when developing a film concept or creative brief.",
+    "path": "skills/premise-and-logline/SKILL.md",
+    "inputs": [
+      "creative seed",
+      "format",
+      "audience",
+      "constraints"
+    ],
+    "outputs": "premise, logline, audience promise, three distinct concept alternatives",
+    "prerequisites": [],
+    "related_skills": [
+      "theme-and-motif",
+      "conflict-and-stakes",
+      "story-architecture"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "9-14,20-22",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "72-73",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "theme-and-motif",
+    "display_name": "Theme and motif",
+    "category": "creative-development",
+    "category_number": "01",
+    "description": "Translate an intended theme into recurring dramatic choices and visual motifs without preaching. Use when developing a film concept or creative brief.",
+    "path": "skills/theme-and-motif/SKILL.md",
+    "inputs": [
+      "premise",
+      "theme candidate",
+      "ending",
+      "genre"
+    ],
+    "outputs": "theme statement, counterargument, motif evolution map",
+    "prerequisites": [],
+    "related_skills": [
+      "premise-and-logline",
+      "visual-information-design",
+      "prop-and-costume-continuity"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "11,49,68,72-73",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "198-203",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-164",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "genre-and-tone",
+    "display_name": "Genre and tone",
+    "category": "creative-development",
+    "category_number": "01",
+    "description": "Select genre conventions and maintain a coherent emotional and visual tone while allowing intentional contrast. Use when developing a film concept or creative brief.",
+    "path": "skills/genre-and-tone/SKILL.md",
+    "inputs": [
+      "concept",
+      "intended audience experience",
+      "reference descriptions"
+    ],
+    "outputs": "genre promise, tonal boundaries, sequence contrast plan",
+    "prerequisites": [],
+    "related_skills": [
+      "theme-and-motif",
+      "lighting-intent",
+      "editing-rhythm"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "49-56,72",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "73,83",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "272-279",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "conflict-and-stakes",
+    "display_name": "Conflict and stakes",
+    "category": "storytelling",
+    "category_number": "02",
+    "description": "Create dramatic opposition and escalate meaningful stakes through character decisions. Use when planning or diagnosing narrative beats.",
+    "path": "skills/conflict-and-stakes/SKILL.md",
+    "inputs": [
+      "premise",
+      "character goals",
+      "obstacles"
+    ],
+    "outputs": "conflict map, escalation ladder, irreversible choice",
+    "prerequisites": [],
+    "related_skills": [
+      "character-motivation",
+      "scene-construction",
+      "story-architecture"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "14,23-24,38-41,62-64,72-75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "story-architecture",
+    "display_name": "Story architecture",
+    "category": "storytelling",
+    "category_number": "02",
+    "description": "Structure a feature, short or lyrical narrative using causal turning points and audience questions. Use when planning or diagnosing narrative beats.",
+    "path": "skills/story-architecture/SKILL.md",
+    "inputs": [
+      "premise",
+      "characters",
+      "runtime",
+      "format"
+    ],
+    "outputs": "causal outline, turning-point map, unresolved question ledger",
+    "prerequisites": [],
+    "related_skills": [
+      "conflict-and-stakes",
+      "visual-information-design",
+      "scene-construction"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "13-14,56-74",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-164",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "visual-information-design",
+    "display_name": "Visual information design",
+    "category": "storytelling",
+    "category_number": "02",
+    "description": "Plan cinematic reveals, anticipation, suspense and audience knowledge across shots and scenes. Use when planning or diagnosing narrative beats.",
+    "path": "skills/visual-information-design/SKILL.md",
+    "inputs": [
+      "story chronology",
+      "viewer knowledge",
+      "intended emotion"
+    ],
+    "outputs": "information map with reveal, withheld fact, cue and payoff",
+    "prerequisites": [],
+    "related_skills": [
+      "point-of-view",
+      "close-ups-and-inserts",
+      "temporal-editing"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "72-75,89",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-164,280-291",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "8-20",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "scene-construction",
+    "display_name": "Scene construction",
+    "category": "screenwriting",
+    "category_number": "03",
+    "description": "Write or revise a dramatic scene with a clear purpose, playable action and meaningful change. Use when writing or revising screenplay scenes.",
+    "path": "skills/scene-construction/SKILL.md",
+    "inputs": [
+      "scene context",
+      "participants",
+      "narrative aim",
+      "format"
+    ],
+    "outputs": "scene outline or script with entry state, action beats, exit state",
+    "prerequisites": [],
+    "related_skills": [
+      "conflict-and-stakes",
+      "dialogue-and-subtext",
+      "directorial-interpretation"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "47,73-75,88-90",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "186-187",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "dialogue-and-subtext",
+    "display_name": "Dialogue and subtext",
+    "category": "screenwriting",
+    "category_number": "03",
+    "description": "Write differentiated, playable dialogue and implied meanings while reducing expository speech. Use when writing or revising screenplay scenes.",
+    "path": "skills/dialogue-and-subtext/SKILL.md",
+    "inputs": [
+      "character goals",
+      "relationship",
+      "necessary information",
+      "scene beats"
+    ],
+    "outputs": "dialogue draft, surface-versus-intent notes, revision suggestions",
+    "prerequisites": [],
+    "related_skills": [
+      "scene-construction",
+      "performance-direction",
+      "character-motivation"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "44-47,75,78-80,88-89",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "186-207",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "exposition-and-backstory",
+    "display_name": "Exposition and backstory",
+    "category": "screenwriting",
+    "category_number": "03",
+    "description": "Introduce world rules and character history economically, revealing information when it matters. Use when writing or revising screenplay scenes.",
+    "path": "skills/exposition-and-backstory/SKILL.md",
+    "inputs": [
+      "world facts",
+      "chronology",
+      "scene outline",
+      "audience knowledge"
+    ],
+    "outputs": "exposition ledger, release timing, visual/dialogue alternatives",
+    "prerequisites": [],
+    "related_skills": [
+      "character-backstory",
+      "visual-information-design",
+      "temporal-editing"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "48,72-75,78-80,89",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-164",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "script-revision",
+    "display_name": "Script revision",
+    "category": "screenwriting",
+    "category_number": "03",
+    "description": "Diagnose and revise a screenplay at structural, scene and line levels. Use when writing or revising screenplay scenes.",
+    "path": "skills/script-revision/SKILL.md",
+    "inputs": [
+      "draft",
+      "intent",
+      "desired audience",
+      "constraints"
+    ],
+    "outputs": "prioritized issue log and revision plan with affected scenes",
+    "prerequisites": [],
+    "related_skills": [
+      "story-architecture",
+      "scene-construction",
+      "creative-quality-audit"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "72-75,78-80,88-90",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "character-motivation",
+    "display_name": "Character motivation",
+    "category": "character-development",
+    "category_number": "04",
+    "description": "Build multidimensional fictional characters with observable goals, values, contradictions and choices. Use when developing or directing a fictional character.",
+    "path": "skills/character-motivation/SKILL.md",
+    "inputs": [
+      "premise",
+      "role",
+      "setting",
+      "relationship network"
+    ],
+    "outputs": "character profile with want, need, fears, choices and behavioral signature",
+    "prerequisites": [],
+    "related_skills": [
+      "conflict-and-stakes",
+      "character-arc",
+      "performance-direction"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "18,23-24,36-44,47-48",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "character-arc",
+    "display_name": "Character arc",
+    "category": "character-development",
+    "category_number": "04",
+    "description": "Track emotional and behavioral change across story beats, including flat, negative or ambiguous arcs. Use when developing or directing a fictional character.",
+    "path": "skills/character-arc/SKILL.md",
+    "inputs": [
+      "character profile",
+      "causal outline",
+      "intended ending"
+    ],
+    "outputs": "arc ledger with belief, choice, cost, consequence and evidence per turning point",
+    "prerequisites": [],
+    "related_skills": [
+      "character-motivation",
+      "story-architecture",
+      "theme-and-motif"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "38-41,56-74",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-164",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "character-backstory",
+    "display_name": "Character backstory",
+    "category": "character-development",
+    "category_number": "04",
+    "description": "Develop relevant fictional history and relationships that produce specific present behavior. Use when developing or directing a fictional character.",
+    "path": "skills/character-backstory/SKILL.md",
+    "inputs": [
+      "character role",
+      "present conflict",
+      "known story facts"
+    ],
+    "outputs": "backstory and relationship ledger with disclosure plan",
+    "prerequisites": [],
+    "related_skills": [
+      "character-motivation",
+      "exposition-and-backstory",
+      "character-arc"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "24,36-48,72,89",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "performance-direction",
+    "display_name": "Performance direction",
+    "category": "character-development",
+    "category_number": "04",
+    "description": "Convert emotional intent into playable actions, reactions and restrained performance beats. Use when developing or directing a fictional character.",
+    "path": "skills/performance-direction/SKILL.md",
+    "inputs": [
+      "scene objective",
+      "character objectives",
+      "blocking",
+      "shot scale"
+    ],
+    "outputs": "performance beat sheet with action, stimulus, response and intensity",
+    "prerequisites": [],
+    "related_skills": [
+      "dialogue-and-subtext",
+      "blocking-and-staging",
+      "close-ups-and-inserts"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "24,78-80,89",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "186-187,234-241",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "170-173",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "directorial-interpretation",
+    "display_name": "Directorial interpretation",
+    "category": "film-directing",
+    "category_number": "05",
+    "description": "Translate a script into a unified visual and performance intention before choosing coverage. Use when interpreting and staging a scene.",
+    "path": "skills/directorial-interpretation/SKILL.md",
+    "inputs": [
+      "script",
+      "intended audience experience",
+      "resources"
+    ],
+    "outputs": "director's scene brief, visual strategy alternatives, decision rationale",
+    "prerequisites": [],
+    "related_skills": [
+      "visual-information-design",
+      "blocking-and-staging",
+      "coverage-planning"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "16-19,110-133,172-185",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "7,72,89",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "40-44",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "blocking-and-staging",
+    "display_name": "Blocking and staging",
+    "category": "film-directing",
+    "category_number": "05",
+    "description": "Plan actor positions, movement, gaze and physical interaction to express dramatic relationships. Use when interpreting and staging a scene.",
+    "path": "skills/blocking-and-staging/SKILL.md",
+    "inputs": [
+      "scene",
+      "location plan",
+      "character tactics",
+      "constraints"
+    ],
+    "outputs": "blocking map with marks, pathways, axis, beat changes",
+    "prerequisites": [],
+    "related_skills": [
+      "screen-direction",
+      "depth-staging",
+      "mobile-staging"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "186-194,234-251",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "24-32,90,130",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "two-person-dialogue",
+    "display_name": "Two person dialogue",
+    "category": "film-directing",
+    "category_number": "05",
+    "description": "Stage and cover a two-person dialogue with purposeful master, paired views and relationship changes. Use when interpreting and staging a scene.",
+    "path": "skills/two-person-dialogue/SKILL.md",
+    "inputs": [
+      "scene beats",
+      "actor positions",
+      "intended intimacy",
+      "lens/framing constraints"
+    ],
+    "outputs": "two-person coverage plan, axis diagram, beat-to-shot map",
+    "prerequisites": [],
+    "related_skills": [
+      "blocking-and-staging",
+      "screen-direction",
+      "close-ups-and-inserts"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "186-207",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "24-29,110,172-173",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "52-53",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "group-dialogue-staging",
+    "display_name": "Group dialogue staging",
+    "category": "film-directing",
+    "category_number": "05",
+    "description": "Stage three or more participants so attention, relationships and conversational axes remain legible. Use when interpreting and staging a scene.",
+    "path": "skills/group-dialogue-staging/SKILL.md",
+    "inputs": [
+      "participants",
+      "scene beats",
+      "set plan"
+    ],
+    "outputs": "grouping map, coverage of focal exchanges, reorientation shots",
+    "prerequisites": [],
+    "related_skills": [
+      "two-person-dialogue",
+      "screen-direction",
+      "composition-hierarchy"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "208-233",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "120,130,200,215",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "mobile-staging",
+    "display_name": "Mobile staging",
+    "category": "film-directing",
+    "category_number": "05",
+    "description": "Design scenes where actors move through space while the camera or framing responds coherently. Use when interpreting and staging a scene.",
+    "path": "skills/mobile-staging/SKILL.md",
+    "inputs": [
+      "scene path",
+      "locations",
+      "actions",
+      "camera constraints"
+    ],
+    "outputs": "start-end positions, path, beat transitions and coverage alternatives",
+    "prerequisites": [],
+    "related_skills": [
+      "blocking-and-staging",
+      "tracking-and-dolly",
+      "tracking-choreography"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "234-241,292-333",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "90,100",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "shot-size-and-coverage",
+    "display_name": "Shot size and coverage",
+    "category": "cinematography",
+    "category_number": "06",
+    "description": "Choose shot sizes according to geography, action detail, relationship and editorial needs. Use when specifying or evaluating camera coverage.",
+    "path": "skills/shot-size-and-coverage/SKILL.md",
+    "inputs": [
+      "scene",
+      "necessary information",
+      "adjacent shots",
+      "output aspect ratio"
+    ],
+    "outputs": "shot family with framing, purpose, coverage and transitions",
+    "prerequisites": [],
+    "related_skills": [
+      "camera-angle-and-perspective",
+      "close-ups-and-inserts",
+      "coverage-planning"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "21-30,170-173",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "134-141,186-207",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "47-52",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "camera-angle-and-perspective",
+    "display_name": "Camera angle and perspective",
+    "category": "cinematography",
+    "category_number": "06",
+    "description": "Select camera height, position and perspective to control spatial clarity and audience relationship. Use when specifying or evaluating camera coverage.",
+    "path": "skills/camera-angle-and-perspective/SKILL.md",
+    "inputs": [
+      "subject",
+      "scene goal",
+      "geometry",
+      "adjacent shots"
+    ],
+    "outputs": "camera specification with viewpoint, height, orientation and rationale",
+    "prerequisites": [],
+    "related_skills": [
+      "point-of-view",
+      "shot-size-and-coverage",
+      "lens-and-focus"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "8-42,60",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "252-271",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "69-71",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "point-of-view",
+    "display_name": "Point of view",
+    "category": "cinematography",
+    "category_number": "06",
+    "description": "Control who the audience observes, identifies with, or sees through, including subjective and objective framing. Use when specifying or evaluating camera coverage.",
+    "path": "skills/point-of-view/SKILL.md",
+    "inputs": [
+      "story viewpoint",
+      "audience knowledge",
+      "scene geography"
+    ],
+    "outputs": "POV map, look-target-reaction sequence, viewpoint rules",
+    "prerequisites": [],
+    "related_skills": [
+      "visual-information-design",
+      "screen-direction",
+      "close-ups-and-inserts"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "10-20",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "272-291,158-164",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "close-ups-and-inserts",
+    "display_name": "Close ups and inserts",
+    "category": "cinematography",
+    "category_number": "06",
+    "description": "Use close framing, detail inserts and reaction shots to reveal information or intensify emotional proximity. Use when specifying or evaluating camera coverage.",
+    "path": "skills/close-ups-and-inserts/SKILL.md",
+    "inputs": [
+      "scene beat",
+      "subject",
+      "surrounding framing",
+      "action continuity"
+    ],
+    "outputs": "close-up/insert specification with in/out cue, eyeline and narrative purpose",
+    "prerequisites": [],
+    "related_skills": [
+      "shot-size-and-coverage",
+      "portrait-lighting",
+      "action-continuity"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "29-30,170-192",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "134-141,158-164",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "120-146",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "lens-and-focus",
+    "display_name": "Lens and focus",
+    "category": "cinematography",
+    "category_number": "06",
+    "description": "Select field of view, camera distance, depth of field and focus behavior appropriate to a shot. Use when specifying or evaluating camera coverage.",
+    "path": "skills/lens-and-focus/SKILL.md",
+    "inputs": [
+      "subject scale",
+      "camera position",
+      "sensor/format or virtual camera",
+      "motion"
+    ],
+    "outputs": "perspective and focus plan with assumptions and alternatives",
+    "prerequisites": [],
+    "related_skills": [
+      "depth-staging",
+      "tracking-and-dolly",
+      "composition-hierarchy"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "12,242-271,308-319",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "21,32,60,225",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "45-46",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "composition-hierarchy",
+    "display_name": "Composition hierarchy",
+    "category": "composition",
+    "category_number": "07",
+    "description": "Compose a frame around a clear center of interest and controlled visual weight. Use when designing a film frame or composition.",
+    "path": "skills/composition-hierarchy/SKILL.md",
+    "inputs": [
+      "shot purpose",
+      "subjects",
+      "set",
+      "frame format"
+    ],
+    "outputs": "composition specification with hierarchy, weight, lines and distraction check",
+    "prerequisites": [],
+    "related_skills": [
+      "depth-staging",
+      "lighting-intent",
+      "open-closed-framing"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "194-215,220,235,240",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "134-141,242-251",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "47-51",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "71,198-203",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "depth-staging",
+    "display_name": "Depth staging",
+    "category": "composition",
+    "category_number": "07",
+    "description": "Create believable depth and layered composition using subject placement, perspective, light and occlusion. Use when designing a film frame or composition.",
+    "path": "skills/depth-staging/SKILL.md",
+    "inputs": [
+      "set geometry",
+      "subjects",
+      "viewpoint",
+      "narrative need"
+    ],
+    "outputs": "foreground/midground/background plan, focus and separation strategy",
+    "prerequisites": [],
+    "related_skills": [
+      "lens-and-focus",
+      "composition-hierarchy",
+      "subject-separation"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "242-251,252-271",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "69-71",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "32,225,230",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "open-closed-framing",
+    "display_name": "Open closed framing",
+    "category": "composition",
+    "category_number": "07",
+    "description": "Use open and closed framing, negative space and offscreen cues to control viewer involvement. Use when designing a film frame or composition.",
+    "path": "skills/open-closed-framing/SKILL.md",
+    "inputs": [
+      "scene intention",
+      "frame format",
+      "subject position",
+      "offscreen action"
+    ],
+    "outputs": "framing alternatives and viewer-involvement rationale",
+    "prerequisites": [],
+    "related_skills": [
+      "composition-hierarchy",
+      "point-of-view",
+      "frame-format"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "272-279,340-345",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "194-215,220",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "50-51",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "frame-format",
+    "display_name": "Frame format",
+    "category": "composition",
+    "category_number": "07",
+    "description": "Choose aspect ratio and framing safe areas for a coherent composition across intended delivery formats. Use when designing a film frame or composition.",
+    "path": "skills/frame-format/SKILL.md",
+    "inputs": [
+      "distribution formats",
+      "subjects",
+      "blocking",
+      "intended visual style"
+    ],
+    "outputs": "primary aspect ratio, composition boundaries, alternate crop plan",
+    "prerequisites": [],
+    "related_skills": [
+      "composition-hierarchy",
+      "open-closed-framing",
+      "storyboard-design"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "340-345,12",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "29,194-195",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "47-51",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "camera-movement-intent",
+    "display_name": "Camera movement intent",
+    "category": "camera-movement",
+    "category_number": "08",
+    "description": "Choose static framing, subject movement or a camera move based on its narrative contribution. Use when planning moving-camera shots.",
+    "path": "skills/camera-movement-intent/SKILL.md",
+    "inputs": [
+      "shot intent",
+      "action",
+      "space",
+      "timing",
+      "available tools"
+    ],
+    "outputs": "movement decision with path, motivation, alternative and end frame",
+    "prerequisites": [],
+    "related_skills": [
+      "pan-and-tilt",
+      "tracking-and-dolly",
+      "tracking-choreography"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "234-241,292-299,308-319",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "34-40",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "pan-and-tilt",
+    "display_name": "Pan and tilt",
+    "category": "camera-movement",
+    "category_number": "08",
+    "description": "Plan rotational camera moves that connect subjects, reveal space or follow action. Use when planning moving-camera shots.",
+    "path": "skills/pan-and-tilt/SKILL.md",
+    "inputs": [
+      "start frame",
+      "target",
+      "action path",
+      "desired pacing"
+    ],
+    "outputs": "pan/tilt map with limits, start-end holds and edit cue",
+    "prerequisites": [],
+    "related_skills": [
+      "camera-movement-intent",
+      "composition-hierarchy",
+      "action-continuity"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "292-299",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "34-37",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "30",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "tracking-and-dolly",
+    "display_name": "Tracking and dolly",
+    "category": "camera-movement",
+    "category_number": "08",
+    "description": "Design translating camera moves with perspective change, parallax, focus and dramatic motivation. Use when planning moving-camera shots.",
+    "path": "skills/tracking-and-dolly/SKILL.md",
+    "inputs": [
+      "scene geometry",
+      "start/end framing",
+      "subject path",
+      "practical constraints"
+    ],
+    "outputs": "movement path, parallax and focus plan, fallback coverage",
+    "prerequisites": [],
+    "related_skills": [
+      "camera-movement-intent",
+      "lens-and-focus",
+      "tracking-choreography"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "300-319",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "37-40",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "tracking-choreography",
+    "display_name": "Tracking choreography",
+    "category": "camera-movement",
+    "category_number": "08",
+    "description": "Coordinate multiple centers of interest and actor movements within a traveling shot or long take. Use when planning moving-camera shots.",
+    "path": "skills/tracking-choreography/SKILL.md",
+    "inputs": [
+      "story beats",
+      "blocking diagram",
+      "camera route",
+      "lighting plan"
+    ],
+    "outputs": "choreography timeline with marks, focal targets, transitions and fallback cuts",
+    "prerequisites": [],
+    "related_skills": [
+      "mobile-staging",
+      "tracking-and-dolly",
+      "coverage-planning"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "234-251,320-333",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "172-185",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "lighting-intent",
+    "display_name": "Lighting intent",
+    "category": "lighting",
+    "category_number": "09",
+    "description": "Translate narrative mood and audience information into an intentional lighting plan. Use when designing or reviewing cinematic lighting.",
+    "path": "skills/lighting-intent/SKILL.md",
+    "inputs": [
+      "scene goal",
+      "set plan",
+      "subjects",
+      "time",
+      "style"
+    ],
+    "outputs": "lighting brief with tonal key, focal priorities and change across beats",
+    "prerequisites": [],
+    "related_skills": [
+      "motivated-lighting",
+      "selective-light-and-shadow",
+      "lighting-continuity"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "57-75,83-95,198-203",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "119-121",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "215",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "motivated-lighting",
+    "display_name": "Motivated lighting",
+    "category": "lighting",
+    "category_number": "09",
+    "description": "Design coherent key, fill, practical and bounce illumination from plausible sources. Use when designing or reviewing cinematic lighting.",
+    "path": "skills/motivated-lighting/SKILL.md",
+    "inputs": [
+      "location",
+      "existing sources",
+      "blocking",
+      "desired contrast"
+    ],
+    "outputs": "source map with direction, quality, intensity relationships and subject zones",
+    "prerequisites": [],
+    "related_skills": [
+      "lighting-intent",
+      "portrait-lighting",
+      "lighting-continuity"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "69-75,139-146",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "41-44",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "selective-light-and-shadow",
+    "display_name": "Selective light and shadow",
+    "category": "lighting",
+    "category_number": "09",
+    "description": "Shape light and darkness to guide attention, imply offscreen space and convey dramatic meaning. Use when designing or reviewing cinematic lighting.",
+    "path": "skills/selective-light-and-shadow/SKILL.md",
+    "inputs": [
+      "scene intent",
+      "blocking",
+      "target surfaces",
+      "tonal palette"
+    ],
+    "outputs": "selective illumination map, shadow purpose, readability test",
+    "prerequisites": [],
+    "related_skills": [
+      "lighting-intent",
+      "subject-separation",
+      "mystery-lighting"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "50-54,69-75,83-95,198-203",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "215",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "portrait-lighting",
+    "display_name": "Portrait lighting",
+    "category": "lighting",
+    "category_number": "09",
+    "description": "Light a face or close-up to preserve identity, modeling, eye readability and intended character expression. Use when designing or reviewing cinematic lighting.",
+    "path": "skills/portrait-lighting/SKILL.md",
+    "inputs": [
+      "subject appearance",
+      "scene light map",
+      "camera position",
+      "dramatic intent"
+    ],
+    "outputs": "portrait lighting plan with source position, fill, eye and background decisions",
+    "prerequisites": [],
+    "related_skills": [
+      "motivated-lighting",
+      "subject-separation",
+      "close-ups-and-inserts"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "120-146,204-206,211-224",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "43-44",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "170-173",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "subject-separation",
+    "display_name": "Subject separation",
+    "category": "lighting",
+    "category_number": "09",
+    "description": "Use tonal contrast, edges, backgrounds, focus and layers to separate subjects without overlighting. Use when designing or reviewing cinematic lighting.",
+    "path": "skills/subject-separation/SKILL.md",
+    "inputs": [
+      "subject",
+      "background",
+      "wardrobe",
+      "composition",
+      "mood"
+    ],
+    "outputs": "separation strategy and edge/readability checks",
+    "prerequisites": [],
+    "related_skills": [
+      "depth-staging",
+      "composition-hierarchy",
+      "motivated-lighting"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "69-71,139-146,168-169",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "242-251",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "215,225,230",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "lighting-continuity",
+    "display_name": "Lighting continuity",
+    "category": "lighting",
+    "category_number": "09",
+    "description": "Maintain a believable lighting world across master shots, close-ups, camera moves and different takes. Use when designing or reviewing cinematic lighting.",
+    "path": "skills/lighting-continuity/SKILL.md",
+    "inputs": [
+      "scene lighting plan",
+      "shots",
+      "source positions",
+      "time continuity"
+    ],
+    "outputs": "lighting state ledger with permitted adjustments and mismatch corrections",
+    "prerequisites": [],
+    "related_skills": [
+      "motivated-lighting",
+      "action-continuity",
+      "creative-quality-audit"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "74-75,139-146,158-175",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "320-333",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "41-44",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "mystery-lighting",
+    "display_name": "Mystery lighting",
+    "category": "atmosphere",
+    "category_number": "10",
+    "description": "Design suspense and mystery through selective visibility, silhouettes and gradual revelation. Use when designing atmospheric or special illumination.",
+    "path": "skills/mystery-lighting/SKILL.md",
+    "inputs": [
+      "scene beats",
+      "what viewer knows",
+      "location",
+      "source logic"
+    ],
+    "outputs": "reveal-by-light sequence, visibility targets, contrast rationale",
+    "prerequisites": [],
+    "related_skills": [
+      "selective-light-and-shadow",
+      "visual-information-design",
+      "night-and-street-lighting"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "83-95,96-98",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-164,280-291",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "night-and-street-lighting",
+    "display_name": "Night and street lighting",
+    "category": "atmosphere",
+    "category_number": "10",
+    "description": "Create readable night interiors or exteriors with believable local pools, ambient sky and practical sources. Use when designing atmospheric or special illumination.",
+    "path": "skills/night-and-street-lighting/SKILL.md",
+    "inputs": [
+      "night location",
+      "practicals",
+      "weather",
+      "movement",
+      "intended mood"
+    ],
+    "outputs": "night light map with ambient level, practicals, reflection and exposure checks",
+    "prerequisites": [],
+    "related_skills": [
+      "motivated-lighting",
+      "mystery-lighting",
+      "weather-and-atmosphere"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "96-105,106-109,158-175",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "69-71",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "41-44",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "weather-and-atmosphere",
+    "display_name": "Weather and atmosphere",
+    "category": "atmosphere",
+    "category_number": "10",
+    "description": "Design rain, fog, snow and environmental depth that remain visually legible and physically coherent. Use when designing atmospheric or special illumination.",
+    "path": "skills/weather-and-atmosphere/SKILL.md",
+    "inputs": [
+      "weather condition",
+      "scene visibility",
+      "source directions",
+      "movement"
+    ],
+    "outputs": "weather specification with density, visibility, light and surface continuity",
+    "prerequisites": [],
+    "related_skills": [
+      "night-and-street-lighting",
+      "depth-staging",
+      "lighting-continuity"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "96-105,158-185",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "225",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "242-251",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "fire-and-practical-effects",
+    "display_name": "Fire and practical effects",
+    "category": "atmosphere",
+    "category_number": "10",
+    "description": "Design believable candle, fire, lightning and other changing-source illumination without unsafe historical rigging. Use when designing atmospheric or special illumination.",
+    "path": "skills/fire-and-practical-effects/SKILL.md",
+    "inputs": [
+      "visible source",
+      "scene duration",
+      "subject positions",
+      "intended effect"
+    ],
+    "outputs": "effect timing and source map, reflection/shadow cues, safe execution constraint",
+    "prerequisites": [],
+    "related_skills": [
+      "motivated-lighting",
+      "lighting-continuity",
+      "weather-and-atmosphere"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "83-95,96-119",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "69-75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "exterior-lighting",
+    "display_name": "Exterior lighting",
+    "category": "atmosphere",
+    "category_number": "10",
+    "description": "Plan outdoor cinematography around sun, sky, bounce, weather, subject position and time-of-day continuity. Use when designing atmospheric or special illumination.",
+    "path": "skills/exterior-lighting/SKILL.md",
+    "inputs": [
+      "location",
+      "sun/sky conditions",
+      "schedule",
+      "shot goals"
+    ],
+    "outputs": "exterior plan with orientation, source control, matching windows and contingencies",
+    "prerequisites": [],
+    "related_skills": [
+      "motivated-lighting",
+      "lighting-continuity",
+      "weather-and-atmosphere"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "158-185,186-197",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "41-44",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "35-41",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "production-design-brief",
+    "display_name": "Production design brief",
+    "category": "production-design",
+    "category_number": "11",
+    "description": "Translate narrative requirements into a coherent visual world, set design and art-direction brief. Use when building a visual world or production design.",
+    "path": "skills/production-design-brief/SKILL.md",
+    "inputs": [
+      "script",
+      "period",
+      "locations",
+      "character circumstances",
+      "format"
+    ],
+    "outputs": "design brief with visual rules, location/prop/wardrobe needs, feasibility decisions",
+    "prerequisites": [],
+    "related_skills": [
+      "location-geography",
+      "prop-and-costume-continuity",
+      "storyboard-design"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "20-35,36-56,110-133",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "57-68,73-75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "72",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "location-geography",
+    "display_name": "Location geography",
+    "category": "production-design",
+    "category_number": "11",
+    "description": "Plan consistent locations, camera access, environmental landmarks and spatial continuity. Use when building a visual world or production design.",
+    "path": "skills/location-geography/SKILL.md",
+    "inputs": [
+      "location brief",
+      "actions",
+      "cameras",
+      "source positions"
+    ],
+    "outputs": "top-view layout, landmark map, axis and camera possibilities",
+    "prerequisites": [],
+    "related_skills": [
+      "blocking-and-staging",
+      "screen-direction",
+      "camera-angle-projection"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "20-35,98-109,142-157,350-369",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "57-68",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "90,100,130",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "prop-and-costume-continuity",
+    "display_name": "Prop and costume continuity",
+    "category": "production-design",
+    "category_number": "11",
+    "description": "Design and track props, wardrobe and appearance changes that support narrative action and continuity. Use when building a visual world or production design.",
+    "path": "skills/prop-and-costume-continuity/SKILL.md",
+    "inputs": [
+      "story chronology",
+      "characters",
+      "props",
+      "locations"
+    ],
+    "outputs": "asset ledger with stable IDs, state changes and continuity photos or references",
+    "prerequisites": [],
+    "related_skills": [
+      "theme-and-motif",
+      "action-continuity",
+      "production-design-brief"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "57-68,120-146,207-210",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "18,24,48",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "20-35",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "80,140",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "look-development",
+    "display_name": "Look development",
+    "category": "production-design",
+    "category_number": "11",
+    "description": "Develop a coherent photographic and design style using comparative tests rather than vague style labels. Use when building a visual world or production design.",
+    "path": "skills/look-development/SKILL.md",
+    "inputs": [
+      "story tone",
+      "frame format",
+      "locations",
+      "characters"
+    ],
+    "outputs": "look guide, test matrix, approved visual attributes and exceptions",
+    "prerequisites": [],
+    "related_skills": [
+      "production-design-brief",
+      "lighting-intent",
+      "frame-format"
+    ],
+    "sources": [
+      {
+        "source": "AL",
+        "pdf_pages": "73-75,198-210",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "16-35,98-109,340-345",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "72",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "storyboard-design",
+    "display_name": "Storyboard design",
+    "category": "previsualization",
+    "category_number": "12",
+    "description": "Translate narrative beats into a sequence of original frame sketches or textual panels that communicate shot flow. Use when previsualizing or planning coverage.",
+    "path": "skills/storyboard-design/SKILL.md",
+    "inputs": [
+      "scene brief",
+      "beat map",
+      "frame format",
+      "location plan"
+    ],
+    "outputs": "ordered storyboard with framing, action, camera movement, audio and cut cues",
+    "prerequisites": [],
+    "related_skills": [
+      "directorial-interpretation",
+      "coverage-planning",
+      "editing-rhythm"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "36-97,98-109,172-185",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "9",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "8",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "coverage-planning",
+    "display_name": "Coverage planning",
+    "category": "previsualization",
+    "category_number": "12",
+    "description": "Build a shot list that supplies the editor with necessary narrative coverage and feasible alternatives. Use when previsualizing or planning coverage.",
+    "path": "skills/coverage-planning/SKILL.md",
+    "inputs": [
+      "scene beats",
+      "staging",
+      "camera plan",
+      "resource constraints"
+    ],
+    "outputs": "shot list with priority, action ranges, camera setup and fallback",
+    "prerequisites": [],
+    "related_skills": [
+      "shot-size-and-coverage",
+      "action-continuity",
+      "shot-flow-audit"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "110-133,165-171,186-233",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "80,144-168",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "52-53",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "camera-angle-projection",
+    "display_name": "Camera angle projection",
+    "category": "previsualization",
+    "category_number": "12",
+    "description": "Use simplified top and elevation views to estimate camera placement, framing and feasibility. Use when previsualizing or planning coverage.",
+    "path": "skills/camera-angle-projection/SKILL.md",
+    "inputs": [
+      "set dimensions or approximate geometry",
+      "subject positions",
+      "format",
+      "desired frame"
+    ],
+    "outputs": "camera placement diagram, viewpoint limits, assumptions and validation step",
+    "prerequisites": [],
+    "related_skills": [
+      "location-geography",
+      "lens-and-focus",
+      "storyboard-design"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "29-30,98-109,350-369",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "21,32,60",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "animatic-and-shot-flow",
+    "display_name": "Animatic and shot flow",
+    "category": "previsualization",
+    "category_number": "12",
+    "description": "Build and evaluate a timed previsualization before expensive filming or generation. Use when previsualizing or planning coverage.",
+    "path": "skills/animatic-and-shot-flow/SKILL.md",
+    "inputs": [
+      "storyboard",
+      "available audio or scene timing",
+      "target runtime"
+    ],
+    "outputs": "timed panel sequence, provisional edit decision list and issue log",
+    "prerequisites": [],
+    "related_skills": [
+      "storyboard-design",
+      "editing-rhythm",
+      "shot-flow-audit"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "36-97,98-109,158-185",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "47-53,60",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "screen-direction",
+    "display_name": "Screen direction",
+    "category": "continuity",
+    "category_number": "13",
+    "description": "Preserve or deliberately change screen direction, action axes and eyelines across coverage. Use when checking adjacent shots and continuity.",
+    "path": "skills/screen-direction/SKILL.md",
+    "inputs": [
+      "location plan",
+      "blocking",
+      "adjacent shots",
+      "viewer orientation"
+    ],
+    "outputs": "axis diagram and continuity decision per shot boundary",
+    "prerequisites": [],
+    "related_skills": [
+      "location-geography",
+      "two-person-dialogue",
+      "action-continuity"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "142-157,208-233",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "90,100,110,120,130",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "action-continuity",
+    "display_name": "Action continuity",
+    "category": "continuity",
+    "category_number": "13",
+    "description": "Maintain physical and temporal action states across takes, angles, inserts and edits. Use when checking adjacent shots and continuity.",
+    "path": "skills/action-continuity/SKILL.md",
+    "inputs": [
+      "shot list",
+      "action beats",
+      "footage or planned states"
+    ],
+    "outputs": "state ledger and matching-action edit map",
+    "prerequisites": [],
+    "related_skills": [
+      "screen-direction",
+      "prop-and-costume-continuity",
+      "cutting-on-action"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "64-80,140,155,170-192",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "142-164",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "75",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "specialized",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "temporal-editing",
+    "display_name": "Temporal editing",
+    "category": "editing",
+    "category_number": "14",
+    "description": "Construct coherent film time through continuity, ellipsis, flashbacks, parallel action and deliberate temporal changes. Use when planning or refining an edit.",
+    "path": "skills/temporal-editing/SKILL.md",
+    "inputs": [
+      "story chronology",
+      "desired reveal order",
+      "shots",
+      "viewer knowledge"
+    ],
+    "outputs": "screen-time order with temporal relationship, cues and rationale",
+    "prerequisites": [],
+    "related_skills": [
+      "visual-information-design",
+      "action-continuity",
+      "transitions-and-montage"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "64-70,140,144-168",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-171",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "48,56-74",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "cutting-on-action",
+    "display_name": "Cutting on action",
+    "category": "editing",
+    "category_number": "14",
+    "description": "Choose and refine cuts that continue movement, preserve direction and transfer attention smoothly. Use when planning or refining an edit.",
+    "path": "skills/cutting-on-action/SKILL.md",
+    "inputs": [
+      "adjacent coverage",
+      "movement phase",
+      "target meaning"
+    ],
+    "outputs": "edit in/out points or planned cut cues with match checks",
+    "prerequisites": [],
+    "related_skills": [
+      "action-continuity",
+      "screen-direction",
+      "editing-rhythm"
+    ],
+    "sources": [
+      {
+        "source": "MC",
+        "pdf_pages": "80,144-168",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-171,172-185",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "52-53",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "editing-rhythm",
+    "display_name": "Editing rhythm",
+    "category": "editing",
+    "category_number": "14",
+    "description": "Choose shot duration and cut placement from narrative information, performance, movement and soundtrack cues. Use when planning or refining an edit.",
+    "path": "skills/editing-rhythm/SKILL.md",
+    "inputs": [
+      "shot sequence",
+      "dialogue/music timing",
+      "emotional objective",
+      "target runtime"
+    ],
+    "outputs": "timed edit map with motivated cut points and pacing notes",
+    "prerequisites": [],
+    "related_skills": [
+      "animatic-and-shot-flow",
+      "temporal-editing",
+      "transitions-and-montage"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "158-185,334-339",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "144-168",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "198-203",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "BA",
+        "pdf_pages": "60",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "transitions-and-montage",
+    "display_name": "Transitions and montage",
+    "category": "editing",
+    "category_number": "14",
+    "description": "Use straight cuts, dissolves, match transitions, associative montage and parallel structures with purpose. Use when planning or refining an edit.",
+    "path": "skills/transitions-and-montage/SKILL.md",
+    "inputs": [
+      "sequence intent",
+      "outgoing/incoming images",
+      "time and space relation"
+    ],
+    "outputs": "transition plan, meaning of juxtaposition, timing and fallback",
+    "prerequisites": [],
+    "related_skills": [
+      "temporal-editing",
+      "editing-rhythm",
+      "visual-information-design"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "158-164,334-339",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "144-168",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "198-203",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "camera-preflight",
+    "display_name": "Camera preflight",
+    "category": "practical-production",
+    "category_number": "15",
+    "description": "Prepare camera or capture workflow for reliable focus, exposure, framing, stabilization and recording. Use when planning practical capture or production.",
+    "path": "skills/camera-preflight/SKILL.md",
+    "inputs": [
+      "capture method",
+      "location",
+      "conditions",
+      "output requirements"
+    ],
+    "outputs": "preflight checklist, test recording notes and fallback",
+    "prerequisites": [],
+    "related_skills": [
+      "lens-and-focus",
+      "motivated-lighting",
+      "location-sound"
+    ],
+    "sources": [
+      {
+        "source": "BA",
+        "pdf_pages": "14-22,28-46",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "75,207-210",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "110-133",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "location-sound",
+    "display_name": "Location sound",
+    "category": "practical-production",
+    "category_number": "15",
+    "description": "Plan intelligible production sound, microphone placement, monitoring and usable ambience. Use when planning practical capture or production.",
+    "path": "skills/location-sound/SKILL.md",
+    "inputs": [
+      "scene audio needs",
+      "sound source",
+      "location noise",
+      "equipment"
+    ],
+    "outputs": "sound capture plan with mic choice, monitoring, room tone and sync",
+    "prerequisites": [],
+    "related_skills": [
+      "camera-preflight",
+      "event-and-interview-coverage",
+      "editing-rhythm"
+    ],
+    "sources": [
+      {
+        "source": "BA",
+        "pdf_pages": "31-33,56-66",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "158-159",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "event-and-interview-coverage",
+    "display_name": "Event and interview coverage",
+    "category": "practical-production",
+    "category_number": "15",
+    "description": "Plan coverage for documentary interviews, live events and performances with limited repeatability. Use when planning practical capture or production.",
+    "path": "skills/event-and-interview-coverage/SKILL.md",
+    "inputs": [
+      "event schedule",
+      "access",
+      "subjects",
+      "audio needs",
+      "consent"
+    ],
+    "outputs": "coverage plan, priority moments, camera/audio fallback and edit options",
+    "prerequisites": [],
+    "related_skills": [
+      "location-sound",
+      "coverage-planning",
+      "point-of-view"
+    ],
+    "sources": [
+      {
+        "source": "BA",
+        "pdf_pages": "55-70",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "64-80,144-168",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "272-279",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "creative-quality-audit",
+    "display_name": "Creative quality audit",
+    "category": "quality-control",
+    "category_number": "16",
+    "description": "Diagnose film quality across story, performance, composition, lighting, continuity and edit with prioritized revisions. Use when reviewing and revising film work.",
+    "path": "skills/creative-quality-audit/SKILL.md",
+    "inputs": [
+      "film or storyboard",
+      "creative brief",
+      "known constraints"
+    ],
+    "outputs": "issue register with evidence, severity, cause, fix and recheck",
+    "prerequisites": [],
+    "related_skills": [
+      "script-revision",
+      "shot-flow-audit",
+      "lighting-continuity"
+    ],
+    "sources": [
+      {
+        "source": "SW",
+        "pdf_pages": "88-90",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "KT",
+        "pdf_pages": "172-185,346-349",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "168,192,240",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "AL",
+        "pdf_pages": "207-210",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  },
+  {
+    "id": "shot-flow-audit",
+    "display_name": "Shot flow audit",
+    "category": "quality-control",
+    "category_number": "16",
+    "description": "Evaluate adjacent shots as a sequence, diagnosing graphic, spatial, temporal and dramatic connections. Use when reviewing and revising film work.",
+    "path": "skills/shot-flow-audit/SKILL.md",
+    "inputs": [
+      "ordered shot list/storyboard or footage",
+      "intended beats"
+    ],
+    "outputs": "boundary-by-boundary audit and revised sequence",
+    "prerequisites": [],
+    "related_skills": [
+      "screen-direction",
+      "editing-rhythm",
+      "creative-quality-audit"
+    ],
+    "sources": [
+      {
+        "source": "KT",
+        "pdf_pages": "134-185,334-339",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "MC",
+        "pdf_pages": "144-168,192,194-215",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      },
+      {
+        "source": "SW",
+        "pdf_pages": "89",
+        "kind": "chapter/topic locator; selected passage or figure reviewed"
+      }
+    ],
+    "level": "foundational",
+    "status": "authored-behavioral-evaluation-pending",
+    "evidence": "source-informed synthesis; behavioral effectiveness untested"
+  }
+]

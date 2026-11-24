@@ -1,0 +1,4 @@
+interface:
+  display_name: Depth staging
+  short_description: Create believable depth and layered composition using subject
+    placement, perspective, light and occlusion.

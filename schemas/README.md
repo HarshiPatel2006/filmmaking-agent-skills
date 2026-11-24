@@ -1,0 +1,3 @@
+# Shared artifacts
+
+Use these optional JSON Schemas for interoperable handoffs. A human-readable Markdown table or YAML record is equally acceptable when the receiving agent does not require JSON. Required fields are intentionally minimal. Maintain stable IDs. Coordinates are in one documented world system; never mix world direction with screen direction. Timecodes use a declared master timebase; `out_seconds` must exceed `in_seconds`, an interval relation to verify separately from JSON Schema. Distinguish planned from observed and verified output. No schema requires an AI vendor, physical camera or named editing application.

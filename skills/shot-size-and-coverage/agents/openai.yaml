@@ -1,0 +1,4 @@
+interface:
+  display_name: Shot size and coverage
+  short_description: Choose shot sizes according to geography, action detail, relationship
+    and editorial needs.

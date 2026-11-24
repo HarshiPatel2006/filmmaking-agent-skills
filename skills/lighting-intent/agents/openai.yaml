@@ -1,0 +1,4 @@
+interface:
+  display_name: Lighting intent
+  short_description: Translate narrative mood and audience information into an intentional
+    lighting plan.

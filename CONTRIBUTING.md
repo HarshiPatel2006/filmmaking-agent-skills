@@ -1,0 +1,3 @@
+# Contributing
+
+Start by identifying the decision and existing related skills. Add a new skill only if it has a distinct input, decision procedure and output. Use lowercase hyphenated directory names and YAML frontmatter containing only name and description. Keep SKILL.md concise, place optional source references in references/, and update categories, registry, source map and test cases. Include an original concrete scenario and correction. State source evidence and modern extrapolations. Never add copyrighted PDFs or book illustrations. Run `python scripts/validate_repository.py` and the regression tests. Behavioral evaluations must be reported separately from format tests.

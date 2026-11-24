@@ -1,0 +1,4 @@
+interface:
+  display_name: Tracking choreography
+  short_description: Coordinate multiple centers of interest and actor movements within
+    a traveling shot or long take.

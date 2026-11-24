@@ -1,0 +1,746 @@
+[
+  {
+    "id": "case-premise-and-logline",
+    "skill": "premise-and-logline",
+    "input": "A song about an impending farewell: distinguish a reunion with a deadline from a montage of beautiful strangers; the chosen concept should imply an ending and observable conflict.",
+    "expected_deliverable": "premise, logline, audience promise, three distinct concept alternatives",
+    "acceptance_criteria": [
+      "Condense to a sentence with protagonist, goal and obstacle; retain uncertainty rather than revealing every beat.",
+      "Address the case-specific decision without the documented failure: A mood or topic is not a premise. Replace abstract statements with an observable goal and consequential opposition; a poetic or documentary concept may use an organizing question instead of a fictional protagonist.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-theme-and-motif",
+    "skill": "theme-and-motif",
+    "input": "A borrowed key appears at a first meeting and a departure; map how ownership changes its meaning rather than simply repeating the insert.",
+    "expected_deliverable": "theme statement, counterargument, motif evolution map",
+    "acceptance_criteria": [
+      "Ask what a viewer could infer from the action without the stated theme.",
+      "Address the case-specific decision without the documented failure: Avoid universal color symbolism and rigid metaphor dictionaries. If a motif never changes meaning, cut or redesign it.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-genre-and-tone",
+    "skill": "genre-and-tone",
+    "input": "A warm family drama contains an unsettling discovery; maintain underlying emotional viewpoint while changing tension and light.",
+    "expected_deliverable": "genre promise, tonal boundaries, sequence contrast plan",
+    "acceptance_criteria": [
+      "Preserve genre flexibility; do not use historical reel lengths as a modern universal rule.",
+      "Address the case-specific decision without the documented failure: If a romance abruptly becomes slapstick with no preparation, specify the narrative motivation and revise adjoining beats or remove the contrast.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-conflict-and-stakes",
+    "skill": "conflict-and-stakes",
+    "input": "A daughter wants to leave a family shop while her father needs her help; each escalation should narrow the choice without making either a caricature.",
+    "expected_deliverable": "conflict map, escalation ladder, irreversible choice",
+    "acceptance_criteria": [
+      "Build a choice whose outcome changes a later scene; show consequences in behavior.",
+      "Address the case-specific decision without the documented failure: Do not confuse loud argument with dramatic conflict or assume every scene needs an antagonist. Quiet incompatible desires can be sufficient.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-story-architecture",
+    "skill": "story-architecture",
+    "input": "A three-minute film about an undelivered letter must contain consequential choices and a changed final image without padding to feature-film beats.",
+    "expected_deliverable": "causal outline, turning-point map, unresolved question ledger",
+    "acceptance_criteria": [
+      "Check setup/payoff, midpoint change and climax; scale length to form rather than fixed page percentages.",
+      "Address the case-specific decision without the documented failure: Do not force every film into a hero's journey or prescribed minute count. Use templates diagnostically; retain purposeful ambiguity.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-visual-information-design",
+    "skill": "visual-information-design",
+    "input": "A woman sees an unfamiliar coat before its owner is shown; create both a suspense version and a curiosity version with distinct knowledge timing.",
+    "expected_deliverable": "information map with reveal, withheld fact, cue and payoff",
+    "acceptance_criteria": [
+      "Review the sequence without explanation and verify the intended question is answered or deliberately left open.",
+      "Address the case-specific decision without the documented failure: If a twist depends on information the film never made available, introduce a subtle fair cue. If mystery becomes confusion, restore context without overexplaining.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-scene-construction",
+    "skill": "scene-construction",
+    "input": "Two colleagues negotiate a resignation: the last action should alter their relationship or decision, not merely restate their positions.",
+    "expected_deliverable": "scene outline or script with entry state, action beats, exit state",
+    "acceptance_criteria": [
+      "Read the scene in context and test whether removing it damages the story.",
+      "Address the case-specific decision without the documented failure: Do not label a scene dramatic simply because characters describe feelings. Replace explanation with a choice, gesture or consequence when possible.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-dialogue-and-subtext",
+    "skill": "dialogue-and-subtext",
+    "input": "A character asks whether the kettle is still on while actually testing if their partner is leaving; write the exchange and identify the decisive observable beat.",
+    "expected_deliverable": "dialogue draft, surface-versus-intent notes, revision suggestions",
+    "acceptance_criteria": [
+      "Allow direct speech when candor is the dramatic event; subtext is a choice, not a universal requirement.",
+      "Address the case-specific decision without the documented failure: Do not make every line cryptic. If neither action nor words communicates the objective, add a clear anchor.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-exposition-and-backstory",
+    "skill": "exposition-and-backstory",
+    "input": "A retired musician avoids a concert hall; establish the relevant past through a present obstacle before disclosing the reason.",
+    "expected_deliverable": "exposition ledger, release timing, visual/dialogue alternatives",
+    "acceptance_criteria": [
+      "Remove explanations viewers have already inferred; test the scene order with a reader unfamiliar with the story.",
+      "Address the case-specific decision without the documented failure: A long speech about an old friendship can stall action. Give one revealing object or habitual gesture, then disclose the necessary fact only when it changes the decision.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-script-revision",
+    "skill": "script-revision",
+    "input": "A script repeats three similar reconciliation attempts; identify what changes in each and consolidate or redesign redundant beats.",
+    "expected_deliverable": "prioritized issue log and revision plan with affected scenes",
+    "acceptance_criteria": [
+      "Compare revised and original versions against the creative brief; preserve intentional style rather than automatically flattening unusual scenes.",
+      "Address the case-specific decision without the documented failure: Avoid polishing dialogue in a scene that should be removed. A nonconventional plot is not a defect unless it fails its intended experience.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-character-motivation",
+    "skill": "character-motivation",
+    "input": "A talented but insecure architect is offered credit for someone else's work; specify desire, fear and behavior under two competing pressures.",
+    "expected_deliverable": "character profile with want, need, fears, choices and behavioral signature",
+    "acceptance_criteria": [
+      "Test three different situations and write observable actions, not personality labels; avoid treating astrology, body type or historical typologies as evidence.",
+      "Address the case-specific decision without the documented failure: A character defined only by appearance or diagnosis is underdeveloped. Replace labels with choices grounded in context.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-character-arc",
+    "skill": "character-arc",
+    "input": "A sibling who avoids responsibility later stays to help: require a sequence of increasingly costly decisions, not an unmotivated final speech.",
+    "expected_deliverable": "arc ledger with belief, choice, cost, consequence and evidence per turning point",
+    "acceptance_criteria": [
+      "Check intermediate beats for earned progression and relationships for reciprocal change.",
+      "Address the case-specific decision without the documented failure: Avoid an instantaneous conversion without pressure or evidence; add a preceding failure, insight or cost.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-character-backstory",
+    "skill": "character-backstory",
+    "input": "A bus driver always checks the rear mirror twice before departure; connect the habit to relevant history without overloading the scene.",
+    "expected_deliverable": "backstory and relationship ledger with disclosure plan",
+    "acceptance_criteria": [
+      "Check dates, ages, social context and contradictions; revise stereotypes into individual circumstances.",
+      "Address the case-specific decision without the documented failure: Avoid adding a traumatic origin merely to justify every trait. Ordinary learned habits and obligations can be more specific.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-performance-direction",
+    "skill": "performance-direction",
+    "input": "A character silently receives disappointing news in a medium close-up; specify what they try to conceal, when their attention shifts and how the hand action carries it.",
+    "expected_deliverable": "performance beat sheet with action, stimulus, response and intensity",
+    "acceptance_criteria": [
+      "Maintain physical and emotional state across coverage; record a deliberate alternate performance for editing if needed.",
+      "Address the case-specific decision without the documented failure: Avoid imposing a fixed facial expression for the whole shot or exaggerated gestures for every beat. Direct objective and reaction, then judge the recorded performance.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-directorial-interpretation",
+    "skill": "directorial-interpretation",
+    "input": "A quiet kitchen argument can play in a fixed two-shot or divided close-ups; select based on when the relationship fractures.",
+    "expected_deliverable": "director's scene brief, visual strategy alternatives, decision rationale",
+    "acceptance_criteria": [
+      "Test alternatives with a storyboard or rough blocking rehearsal and revise based on shot flow.",
+      "Address the case-specific decision without the documented failure: A list of cinematic angles without a scene purpose is not direction. Remove shots that neither convey information nor alter emotional perspective.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-blocking-and-staging",
+    "skill": "blocking-and-staging",
+    "input": "Two people start apart at a kitchen island, one approaches after a confession; map the shift and the camera's view of the listener.",
+    "expected_deliverable": "blocking map with marks, pathways, axis, beat changes",
+    "acceptance_criteria": [
+      "Rehearse or visualize the full path and endpoints; record matching positions for coverage.",
+      "Address the case-specific decision without the documented failure: Do not move actors merely to keep the image active. If the movement obscures a crucial reaction or crosses an axis without cues, redesign it.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-two-person-dialogue",
+    "skill": "two-person-dialogue",
+    "input": "A cordial interview becomes an accusation; include a shared view, a justified closer view and a clear reason for each cut.",
+    "expected_deliverable": "two-person coverage plan, axis diagram, beat-to-shot map",
+    "acceptance_criteria": [
+      "Capture the listener's important reactions and overlapping action; return to a master or reframe when blocking changes.",
+      "Address the case-specific decision without the documented failure: If alternation of identical singles feels mechanical, hold a two-shot over meaningful interaction or delay the reaction cut. Preserve geography.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-group-dialogue-staging",
+    "skill": "group-dialogue-staging",
+    "input": "Three friends argue while a fourth listens at a doorway; map alliances and provide coverage when attention turns to the listener.",
+    "expected_deliverable": "grouping map, coverage of focal exchanges, reorientation shots",
+    "acceptance_criteria": [
+      "Track changes of focal interest through blocking, focus, lighting or framing; record useful reaction coverage.",
+      "Address the case-specific decision without the documented failure: A succession of tight singles loses the room's geography and alliances. Restore the relevant subgroup and their spatial relation.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-mobile-staging",
+    "skill": "mobile-staging",
+    "input": "Two coworkers walk from a desk to a window while negotiating; track only if the path communicates changing alignment.",
+    "expected_deliverable": "start-end positions, path, beat transitions and coverage alternatives",
+    "acceptance_criteria": [
+      "Create a coverage fallback for a complex move and test with a rough animatic or rehearsal.",
+      "Address the case-specific decision without the documented failure: If movement looks like wandering, give each change of position a motivation. If a track hides reactions, pause, reframe or split the move.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-shot-size-and-coverage",
+    "skill": "shot-size-and-coverage",
+    "input": "A key exchange occurs in a crowded room; use an establishing view, a relevant interaction view and a meaningful detail without redundant coverage.",
+    "expected_deliverable": "shot family with framing, purpose, coverage and transitions",
+    "acceptance_criteria": [
+      "Record overlapping action or alternative entry and exit points for each important shot.",
+      "Address the case-specific decision without the documented failure: Avoid a progression of wide-medium-close as an automatic formula. Open in close-up when a later reveal is purposeful and orientation is not immediately needed.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-camera-angle-and-perspective",
+    "skill": "camera-angle-and-perspective",
+    "input": "Film a child and adult at a table; choose a viewpoint that communicates their relation without distorting either face unnecessarily.",
+    "expected_deliverable": "camera specification with viewpoint, height, orientation and rationale",
+    "acceptance_criteria": [
+      "Check eyelines, horizon, screen direction and neighboring shot contrast; justify any intentionally disorienting viewpoint.",
+      "Address the case-specific decision without the documented failure: A high angle may communicate geography, not weakness. Avoid symbolic angle shortcuts and physically impossible perspective descriptions.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-point-of-view",
+    "skill": "point-of-view",
+    "input": "A person hears a noise behind a door; plan objective, near-character and literal POV alternatives and select for uncertainty.",
+    "expected_deliverable": "POV map, look-target-reaction sequence, viewpoint rules",
+    "acceptance_criteria": [
+      "Return to an objective or shared view when perspective needs clarification.",
+      "Address the case-specific decision without the documented failure: A direct-to-camera glance can accidentally break immersion; correct gaze placement unless direct address is intended.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-close-ups-and-inserts",
+    "skill": "close-ups-and-inserts",
+    "input": "A hand pauses before returning a ring; plan a detail shot and a reaction shot, then decide if both are necessary.",
+    "expected_deliverable": "close-up/insert specification with in/out cue, eyeline and narrative purpose",
+    "acceptance_criteria": [
+      "Use multiple sizes sparingly and test the cut in sequence; ensure the close shot changes perception, not just magnification.",
+      "Address the case-specific decision without the documented failure: An insert of a prop may mislead if its location or owner is unclear. Establish its relation before cutting tighter or follow with clarifying reaction.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-lens-and-focus",
+    "skill": "lens-and-focus",
+    "input": "Two actors stand at different depths; choose between both readable and a focus transfer that reveals one actor's reaction.",
+    "expected_deliverable": "perspective and focus plan with assumptions and alternatives",
+    "acceptance_criteria": [
+      "Test faces, edges, background and focus at start and end; distinguish optical behavior from digital crops or simulated blur.",
+      "Address the case-specific decision without the documented failure: Do not prescribe a universal focal length or claim a lens alone changes perspective. Reposition camera or change composition to solve the actual problem.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-composition-hierarchy",
+    "skill": "composition-hierarchy",
+    "input": "A small figure in a bright hallway must be the first read; choose tonal separation and framing without losing spatial context.",
+    "expected_deliverable": "composition specification with hierarchy, weight, lines and distraction check",
+    "acceptance_criteria": [
+      "Check composition at thumbnail and intended screen size; compare adjacent shots so attention transfers purposefully.",
+      "Address the case-specific decision without the documented failure: A bright background detail can dominate the intended face. Dim, mask, reframe or move it rather than indiscriminately centering the actor.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-depth-staging",
+    "skill": "depth-staging",
+    "input": "A visitor appears beyond a seated character in a doorway; compose both layers so the reveal remains readable.",
+    "expected_deliverable": "foreground/midground/background plan, focus and separation strategy",
+    "acceptance_criteria": [
+      "Review the image as silhouettes and as a moving frame; prevent unwanted mergers when people change positions.",
+      "Address the case-specific decision without the documented failure: Depth is not synonymous with maximum bokeh. If a scene depends on the viewer seeing a distant figure, keep enough detail in that plane.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-open-closed-framing",
+    "skill": "open-closed-framing",
+    "input": "A person waits beside an unseen doorway; compare an open frame implying arrival with an enclosed frame emphasizing isolation.",
+    "expected_deliverable": "framing alternatives and viewer-involvement rationale",
+    "acceptance_criteria": [
+      "Test different crops and neighboring shots; do not treat centered subjects or negative space as inherently correct or incorrect.",
+      "Address the case-specific decision without the documented failure: A frame with unexplained cropped action may look accidental. Establish offscreen context or restore the necessary content.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-frame-format",
+    "skill": "frame-format",
+    "input": "A wide dialogue and a vertical teaser share footage; identify shots needing alternative compositions.",
+    "expected_deliverable": "primary aspect ratio, composition boundaries, alternate crop plan",
+    "acceptance_criteria": [
+      "Review final exports for unwanted cuts of heads, hands, titles and narrative clues.",
+      "Address the case-specific decision without the documented failure: Do not simply center-crop a wide two-person scene into vertical if it removes the second character. Reframe or create alternate coverage.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-camera-movement-intent",
+    "skill": "camera-movement-intent",
+    "input": "A character reads a letter; compare a static hold, push-in, and cut to detail, then select based on the reveal.",
+    "expected_deliverable": "movement decision with path, motivation, alternative and end frame",
+    "acceptance_criteria": [
+      "Plan coverage or an edit point in case a demanding move fails.",
+      "Address the case-specific decision without the documented failure: Movement added merely to look cinematic can dilute tension; remove or slow it when stillness better communicates the beat.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-pan-and-tilt",
+    "skill": "pan-and-tilt",
+    "input": "Follow a person from a window to a nearby desk; specify where the pan starts and where it settles when the next action begins.",
+    "expected_deliverable": "pan/tilt map with limits, start-end holds and edit cue",
+    "acceptance_criteria": [
+      "Check horizon and subject look/movement space throughout; consider a cut instead when traversed space adds no value.",
+      "Address the case-specific decision without the documented failure: A pan that sweeps irrelevant space delays comprehension. Shorten the path or cut between motivated views.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-tracking-and-dolly",
+    "skill": "tracking-and-dolly",
+    "input": "A camera approaches a seated person while another figure enters behind them; identify when foreground parallax and focus reveal the second figure.",
+    "expected_deliverable": "movement path, parallax and focus plan, fallback coverage",
+    "acceptance_criteria": [
+      "Define a meaningful endpoint and an alternative edited version if the move cannot be achieved.",
+      "Address the case-specific decision without the documented failure: A large dolly move that adds no new perspective is unnecessary. A close move may distort face or expose set edges; revise distance or use a simpler alternative.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-tracking-choreography",
+    "skill": "tracking-choreography",
+    "input": "A shopkeeper crosses between two customers while passing information; maintain clear emphasis at each of three beats.",
+    "expected_deliverable": "choreography timeline with marks, focal targets, transitions and fallback cuts",
+    "acceptance_criteria": [
+      "Rehearse in rough animatic or video; define cutaway/master alternatives if a single take cannot communicate the event reliably.",
+      "Address the case-specific decision without the documented failure: Do not design an elaborate long take only for spectacle. If a major beat is hidden or timing incompatible, divide it into motivated coverage.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-lighting-intent",
+    "skill": "lighting-intent",
+    "input": "A room shifts from welcoming to unsettling after a revelation; change attention and contrast, not merely brightness.",
+    "expected_deliverable": "lighting brief with tonal key, focal priorities and change across beats",
+    "acceptance_criteria": [
+      "Check the wide, close and reverse coverage together; specify deviations as intentional rather than accidentally inconsistent.",
+      "Address the case-specific decision without the documented failure: Do not treat dark footage as inherently dramatic. Distinguish a designed dark composition with readable essential details from underexposure.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-motivated-lighting",
+    "skill": "motivated-lighting",
+    "input": "Two people sit next to a window and table lamp; choose which dominates and preserve the apparent direction on both faces.",
+    "expected_deliverable": "source map with direction, quality, intensity relationships and subject zones",
+    "acceptance_criteria": [
+      "Compare reverse angles and close-ups; preserve the apparent source even when adjusting actual placement for the shot.",
+      "Address the case-specific decision without the documented failure: Avoid multiple inconsistent hard shadows and unmotivated color casts. A practical may be visible without providing all required exposure.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-selective-light-and-shadow",
+    "skill": "selective-light-and-shadow",
+    "input": "A character crosses a hallway and notices an open door; illuminate only the path and revealing detail without obscuring their reaction.",
+    "expected_deliverable": "selective illumination map, shadow purpose, readability test",
+    "acceptance_criteria": [
+      "Check the image at final display brightness and in sequence; refine excessive black crush, clipping and visually distracting pools.",
+      "Address the case-specific decision without the documented failure: Avoid flooding every surface with light or hiding action required to understand the story. Darkness should be a designed relationship, not an exposure error.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-portrait-lighting",
+    "skill": "portrait-lighting",
+    "input": "A restrained close-up of a tired musician needs visible eyes without losing side-lit texture; compare two source positions and retain the more believable one.",
+    "expected_deliverable": "portrait lighting plan with source position, fill, eye and background decisions",
+    "acceptance_criteria": [
+      "Compare neutral and emotional expressions, multiple head orientations and recorded highlight/shadow detail; preserve identity and natural texture.",
+      "Address the case-specific decision without the documented failure: Do not apply historical gendered beautification assumptions or equate attractiveness with lighter skin. Modify lighting to serve a specific subject and narrative.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-subject-separation",
+    "skill": "subject-separation",
+    "input": "A dark coat blends into a dark wall; use a motivated wall pool or reposition subject rather than a bright unexplained outline.",
+    "expected_deliverable": "separation strategy and edge/readability checks",
+    "acceptance_criteria": [
+      "Review at thumbnail size and normal display size, including moving poses.",
+      "Address the case-specific decision without the documented failure: Avoid automatic rim lights on every subject. An obvious halo or flat overlit scene may be worse than a deliberate silhouette.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-lighting-continuity",
+    "skill": "lighting-continuity",
+    "input": "A reverse angle makes a lamp appear to light the wrong side of a face; reconstruct world source positions and correct the reverse setup.",
+    "expected_deliverable": "lighting state ledger with permitted adjustments and mismatch corrections",
+    "acceptance_criteria": [
+      "Compare adjacent frames and representative motion, not isolated beauty frames; fix upstream setup or grade only within recoverable limits.",
+      "Address the case-specific decision without the documented failure: Do not require identical pixels across camera angles; preserve physical logic and narrative continuity. Do not conceal severe mismatches with an unrelated color preset.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-mystery-lighting",
+    "skill": "mystery-lighting",
+    "input": "A person enters a storage room and recognizes a familiar object; reveal object and reaction in a motivated pool while retaining unseen background.",
+    "expected_deliverable": "reveal-by-light sequence, visibility targets, contrast rationale",
+    "acceptance_criteria": [
+      "Review for spatial comprehension, essential expressions and the payoff of withheld information.",
+      "Address the case-specific decision without the documented failure: If darkness makes all action unintelligible, add a controlled cue or restructure the reveal. Not every suspense scene needs low-key light.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-night-and-street-lighting",
+    "skill": "night-and-street-lighting",
+    "input": "A traveler walks through a deserted street from one lamp pool to another; describe readable motion and the consistent source geometry.",
+    "expected_deliverable": "night light map with ambient level, practicals, reflection and exposure checks",
+    "acceptance_criteria": [
+      "Compare wide and close coverage; if moonlight is stylized, state that choice and maintain it consistently.",
+      "Address the case-specific decision without the documented failure: Avoid featureless black or uniformly blue footage and unexplained bright faces in empty darkness. Preserve a believable source relationship.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-weather-and-atmosphere",
+    "skill": "weather-and-atmosphere",
+    "input": "A couple stands at a misty waterfront after rain; separate foreground expressions from receding background and maintain wet surfaces in coverage.",
+    "expected_deliverable": "weather specification with density, visibility, light and surface continuity",
+    "acceptance_criteria": [
+      "Match environmental conditions, reflections, clothing wetness and motion across shots; use safe simulated alternatives rather than historical hazardous methods.",
+      "Address the case-specific decision without the documented failure: Do not paint fog uniformly across every depth plane or switch rain direction between reverse shots. Restore physical consistency.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-fire-and-practical-effects",
+    "skill": "fire-and-practical-effects",
+    "input": "A candlelit conversation briefly interrupted by a flash outside: maintain candle direction and coordinate the separate flash in both angles.",
+    "expected_deliverable": "effect timing and source map, reflection/shadow cues, safe execution constraint",
+    "acceptance_criteria": [
+      "Specify safe modern lighting or simulated effects; actual fire, high voltage, hazardous rigs and weather effects require qualified professionals.",
+      "Address the case-specific decision without the documented failure: Avoid copying legacy methods involving exposed arcs, burning materials or dangerous electrical setups. A moving light effect needs consistent spatial response.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-exterior-lighting",
+    "skill": "exterior-lighting",
+    "input": "A conversation at an open field near sunset; plan orientation and timing so shadows stay believable while the story advances.",
+    "expected_deliverable": "exterior plan with orientation, source control, matching windows and contingencies",
+    "acceptance_criteria": [
+      "Design a weather contingency and ensure safety for real locations and crew; treat older film-stock/filter prescriptions as historical context.",
+      "Address the case-specific decision without the documented failure: A sunny master and overcast reverse may not cut together. Reorder coverage, adjust lighting or motivate the environmental change.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-production-design-brief",
+    "skill": "production-design-brief",
+    "input": "A cramped bakery is also a family meeting place; make the room support work, private talk and a revealing doorway.",
+    "expected_deliverable": "design brief with visual rules, location/prop/wardrobe needs, feasibility decisions",
+    "acceptance_criteria": [
+      "Create reusable reference specifications and lock approved details before generating or shooting coverage; record intentional changes.",
+      "Address the case-specific decision without the documented failure: A beautiful set that prevents blocking or contradicts the character's means is poor production design. Revise around action and world logic.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-location-geography",
+    "skill": "location-geography",
+    "input": "A cafe conversation cuts from table to entrance and reverse singles; verify the door and windows remain on the same world sides.",
+    "expected_deliverable": "top-view layout, landmark map, axis and camera possibilities",
+    "acceptance_criteria": [
+      "Keep one canonical plan and update revisions explicitly; generated or virtual locations should derive from this same geometry.",
+      "Address the case-specific decision without the documented failure: Do not invent a different window or doorway in every angle. Reconcile all views with the canonical layout or label a new location.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-prop-and-costume-continuity",
+    "skill": "prop-and-costume-continuity",
+    "input": "A letter passes between two characters before a time jump; track folds, owner, hand and wardrobe change.",
+    "expected_deliverable": "asset ledger with stable IDs, state changes and continuity photos or references",
+    "acceptance_criteria": [
+      "Record approved references and compare adjacent coverage; prioritize narratively significant mismatches over tiny invisible differences.",
+      "Address the case-specific decision without the documented failure: Avoid arbitrary wardrobe changes within one event or a prop jumping hands between cuts. Correct state rather than merely making a prettier image.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-look-development",
+    "skill": "look-development",
+    "input": "Create look tests for a warm cafe and cool night exterior that share plausible skin and consistent contrast while expressing different emotions.",
+    "expected_deliverable": "look guide, test matrix, approved visual attributes and exceptions",
+    "acceptance_criteria": [
+      "Check consistency across actual output, not only references; label medium-specific assumptions and avoid copying proprietary imagery.",
+      "Address the case-specific decision without the documented failure: A style guide made only of words such as cinematic or premium is not actionable. Describe visible decisions and acceptance examples.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-storyboard-design",
+    "skill": "storyboard-design",
+    "input": "Board a silent encounter involving a dropped object, a look and a recognition; ensure the viewer can reconstruct cause and effect.",
+    "expected_deliverable": "ordered storyboard with framing, action, camera movement, audio and cut cues",
+    "acceptance_criteria": [
+      "Read panels as a sequence or timed animatic; revise shots that only look good individually, then identify required production assets.",
+      "Address the case-specific decision without the documented failure: Do not treat a collection of unconnected beautiful stills as a storyboard. Add sequence order, movement and timing evidence.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-coverage-planning",
+    "skill": "coverage-planning",
+    "input": "A scene has an interruption and two reactions; ensure the editor can change emphasis without inventing missing action.",
+    "expected_deliverable": "shot list with priority, action ranges, camera setup and fallback",
+    "acceptance_criteria": [
+      "Perform a paper edit and verify every beat can be assembled without gaps or contradictory action; mark optional coverage separately.",
+      "Address the case-specific decision without the documented failure: Do not shoot every angle just because it is available. Conversely, a single impressive shot may fail if its crucial beat is obscured.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-camera-angle-projection",
+    "skill": "camera-angle-projection",
+    "input": "A narrow corridor requires an OTS and wide view; draw a feasible camera plan and note which wall might need removal in a constructed set.",
+    "expected_deliverable": "camera placement diagram, viewpoint limits, assumptions and validation step",
+    "acceptance_criteria": [
+      "Label approximate dimensions and lens assumptions; do not present a sketch as surveyed or optically calibrated.",
+      "Address the case-specific decision without the documented failure: If a reverse frame requires a camera through a wall, revise layout, choose another view or explicitly plan a virtual/set modification.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-animatic-and-shot-flow",
+    "skill": "animatic-and-shot-flow",
+    "input": "A 30-second sequence feels rushed at its reveal and slow at routine travel; revise timing and document the intended edit points.",
+    "expected_deliverable": "timed panel sequence, provisional edit decision list and issue log",
+    "acceptance_criteria": [
+      "Treat the animatic as a timing and intent test, not proof that final movement or performance will work.",
+      "Address the case-specific decision without the documented failure: Static panels can conceal impossible motion. Add rough movement, diagrams or text at transitions where needed.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-screen-direction",
+    "skill": "screen-direction",
+    "input": "Three speakers rotate attention from one pair to another; establish the new gaze line before crossing the previous axis.",
+    "expected_deliverable": "axis diagram and continuity decision per shot boundary",
+    "acceptance_criteria": [
+      "Test the edited sequence visually; a geometric rule is a default serving comprehension, not a prohibition on expressive disorientation.",
+      "Address the case-specific decision without the documented failure: A reverse angle flips both characters to the same facing direction. Correct camera placement or add a motivated reorientation; do not rely on random cutaways.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-action-continuity",
+    "skill": "action-continuity",
+    "input": "A character lifts a cup in a wide shot and drinks in a close-up; check hand, cup position and motion phase at the cut.",
+    "expected_deliverable": "state ledger and matching-action edit map",
+    "acceptance_criteria": [
+      "Inspect frames around edit points and play at normal speed; flag unexplained changes and distinguish minor invisible cheats from story errors.",
+      "Address the case-specific decision without the documented failure: A glass changes hands or a door closes twice across a cut. Choose matching frames or revise the sequence.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-temporal-editing",
+    "skill": "temporal-editing",
+    "input": "Intercut a letter being written yesterday and read today; create clear temporal cues without spelling out the chronology in dialogue.",
+    "expected_deliverable": "screen-time order with temporal relationship, cues and rationale",
+    "acceptance_criteria": [
+      "Review with a viewer who lacks the outline; ensure they infer the intended time relation or recognize deliberate ambiguity.",
+      "Address the case-specific decision without the documented failure: An unexplained costume change is not automatically a flashback. Provide an intelligible time cue or correct the mismatch.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-cutting-on-action",
+    "skill": "cutting-on-action",
+    "input": "An actor opens a drawer across wide and close coverage; align the drawer travel and hand position, then compare three cut points.",
+    "expected_deliverable": "edit in/out points or planned cut cues with match checks",
+    "acceptance_criteria": [
+      "Check both picture and sound continuity; document an intentional abrupt cut as a creative effect.",
+      "Address the case-specific decision without the documented failure: Cutting on action is not mandatory for every scene; stillness and delayed reaction can be stronger. Do not repeat the same gesture unintentionally.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-editing-rhythm",
+    "skill": "editing-rhythm",
+    "input": "A slow song includes a sustained phrase and a short instrumental response; select different shot holds and cuts based on phrasing, not multiples of five seconds.",
+    "expected_deliverable": "timed edit map with motivated cut points and pacing notes",
+    "acceptance_criteria": [
+      "Record timebase, in/out points, reasons and alternatives; check total duration and frame-compatible boundaries when technical inputs are known.",
+      "Address the case-specific decision without the documented failure: A beat grid does not replace editorial judgment. If equal shots feel mechanical, vary them around actual phrase boundaries and emotional beats.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-transitions-and-montage",
+    "skill": "transitions-and-montage",
+    "input": "Match an empty chair in a present scene with an occupied chair in memory; verify the time distinction and emotional association.",
+    "expected_deliverable": "transition plan, meaning of juxtaposition, timing and fallback",
+    "acceptance_criteria": [
+      "Play transitions in context and remove ornamental effects that distract; reserve stronger devices for meaningful contrast.",
+      "Address the case-specific decision without the documented failure: A dissolve does not automatically signal memory, and a matching shape does not guarantee meaning. Establish the narrative relation through context.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-camera-preflight",
+    "skill": "camera-preflight",
+    "input": "A backlit interview with a moving subject requires a short test showing face exposure, stable focus, clean audio and sufficient storage.",
+    "expected_deliverable": "preflight checklist, test recording notes and fallback",
+    "acceptance_criteria": [
+      "Document settings and reset between setups; verify a safe backup and preserve originals.",
+      "Address the case-specific decision without the documented failure: Do not reuse obsolete tape or camera-format advice as current requirements. Use measured device behavior and current documentation for technical specifics.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-location-sound",
+    "skill": "location-sound",
+    "input": "A quiet interview beside a noisy window; compare closer mic and alternate location, record room tone and verify audio with a test.",
+    "expected_deliverable": "sound capture plan with mic choice, monitoring, room tone and sync",
+    "acceptance_criteria": [
+      "Do not change factual interview meaning through edits; verify sync, clipping and audibility in playback.",
+      "Address the case-specific decision without the documented failure: A distant onboard mic may capture more room than speaker. Move the mic nearer or change location; avoid pretending denoising will recover missing speech.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-event-and-interview-coverage",
+    "skill": "event-and-interview-coverage",
+    "input": "A one-time recital includes a solo and audience reaction; ensure continuous audio and a safety shot with relevant alternative angles.",
+    "expected_deliverable": "coverage plan, priority moments, camera/audio fallback and edit options",
+    "acceptance_criteria": [
+      "Plan discreet operation, permissions and backup coverage; preserve chronological accuracy or clearly label reconstructed footage.",
+      "Address the case-specific decision without the documented failure: Do not combine footage from different performances as if factually identical when timing, audience or actions differ. Do not use an unrelated cutaway to misrepresent a speaker.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-creative-quality-audit",
+    "skill": "creative-quality-audit",
+    "input": "A sequence has attractive frames but unclear motivation and a reversed eyeline; prioritize story and spatial fixes over adding cinematic effects.",
+    "expected_deliverable": "issue register with evidence, severity, cause, fix and recheck",
+    "acceptance_criteria": [
+      "Propose concrete alternatives and retest the affected sequence; label what cannot be assessed without rendered footage or audio.",
+      "Address the case-specific decision without the documented failure: Do not assign a numerical quality score unsupported by evidence. A visually polished shot can fail narrative purpose; a rough intentional shot may succeed.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  },
+  {
+    "id": "case-shot-flow-audit",
+    "skill": "shot-flow-audit",
+    "input": "A four-shot scene shows a glance, a distant object, an incompatible reverse and a reaction; diagnose the missing spatial link and repair it.",
+    "expected_deliverable": "boundary-by-boundary audit and revised sequence",
+    "acceptance_criteria": [
+      "Separate diagnosed defects from deliberate montage or disorientation; verify the revision in playback or label it as provisional.",
+      "Address the case-specific decision without the documented failure: A shot can be correct alone but wrong in context. Do not approve sequence quality using a contact sheet only.",
+      "Provide evidence, assumptions and a usable artifact rather than a generic explanation."
+    ],
+    "status": "not-run-agent-evaluation"
+  }
+]

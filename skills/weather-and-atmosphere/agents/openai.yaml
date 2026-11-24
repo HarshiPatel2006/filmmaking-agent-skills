@@ -1,0 +1,4 @@
+interface:
+  display_name: Weather and atmosphere
+  short_description: Design rain, fog, snow and environmental depth that remain visually
+    legible and physically coherent.

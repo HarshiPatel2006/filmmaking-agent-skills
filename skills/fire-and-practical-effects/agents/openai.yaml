@@ -1,0 +1,4 @@
+interface:
+  display_name: Fire and practical effects
+  short_description: Design believable candle, fire, lightning and other changing-source
+    illumination without unsafe historical rig

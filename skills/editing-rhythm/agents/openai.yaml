@@ -1,0 +1,4 @@
+interface:
+  display_name: Editing rhythm
+  short_description: Choose shot duration and cut placement from narrative information,
+    performance, movement and soundtrack cues.

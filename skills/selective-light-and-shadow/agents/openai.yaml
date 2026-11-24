@@ -1,0 +1,4 @@
+interface:
+  display_name: Selective light and shadow
+  short_description: Shape light and darkness to guide attention, imply offscreen
+    space and convey dramatic meaning.

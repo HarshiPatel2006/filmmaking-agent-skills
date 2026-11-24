@@ -1,0 +1,114 @@
+[
+  {
+    "number": "01",
+    "id": "creative-development",
+    "title": "Creative development",
+    "description": "Define the concept, theme and audience experience.",
+    "skill_count": 3
+  },
+  {
+    "number": "02",
+    "id": "storytelling",
+    "title": "Storytelling",
+    "description": "Organize dramatic causality, stakes and audience knowledge.",
+    "skill_count": 3
+  },
+  {
+    "number": "03",
+    "id": "screenwriting",
+    "title": "Screenwriting",
+    "description": "Construct, refine and communicate playable scenes.",
+    "skill_count": 4
+  },
+  {
+    "number": "04",
+    "id": "character-development",
+    "title": "Character development",
+    "description": "Ground character behavior, relationships and performance.",
+    "skill_count": 4
+  },
+  {
+    "number": "05",
+    "id": "film-directing",
+    "title": "Film directing",
+    "description": "Translate dramatic intention into staging and visual decisions.",
+    "skill_count": 5
+  },
+  {
+    "number": "06",
+    "id": "cinematography",
+    "title": "Cinematography",
+    "description": "Choose camera viewpoints, shot scale, perspective and focus.",
+    "skill_count": 5
+  },
+  {
+    "number": "07",
+    "id": "composition",
+    "title": "Composition and visual grammar",
+    "description": "Control attention, depth, framing and format.",
+    "skill_count": 4
+  },
+  {
+    "number": "08",
+    "id": "camera-movement",
+    "title": "Camera movement",
+    "description": "Design motivated moving shots and choreography.",
+    "skill_count": 4
+  },
+  {
+    "number": "09",
+    "id": "lighting",
+    "title": "Lighting and shadow",
+    "description": "Shape tonal hierarchy, source logic, faces and continuity.",
+    "skill_count": 6
+  },
+  {
+    "number": "10",
+    "id": "atmosphere",
+    "title": "Atmosphere and special illumination",
+    "description": "Design environmental and changing-source light.",
+    "skill_count": 5
+  },
+  {
+    "number": "11",
+    "id": "production-design",
+    "title": "Production design and visual world",
+    "description": "Coordinate visual world, assets, geography and look.",
+    "skill_count": 4
+  },
+  {
+    "number": "12",
+    "id": "previsualization",
+    "title": "Previsualization and coverage",
+    "description": "Plan filmable, editable sequences before production.",
+    "skill_count": 4
+  },
+  {
+    "number": "13",
+    "id": "continuity",
+    "title": "Continuity",
+    "description": "Maintain or intentionally alter spatial and physical state.",
+    "skill_count": 2
+  },
+  {
+    "number": "14",
+    "id": "editing",
+    "title": "Editing and film rhythm",
+    "description": "Construct meaningful relationships in screen time.",
+    "skill_count": 4
+  },
+  {
+    "number": "15",
+    "id": "practical-production",
+    "title": "Practical production",
+    "description": "Capture useful, reliable footage and sound.",
+    "skill_count": 3
+  },
+  {
+    "number": "16",
+    "id": "quality-control",
+    "title": "Creative quality control",
+    "description": "Diagnose defects and prioritize creative revisions.",
+    "skill_count": 2
+  }
+]

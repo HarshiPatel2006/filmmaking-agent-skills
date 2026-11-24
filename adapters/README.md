@@ -1,0 +1,5 @@
+# Optional implementation adapters
+
+The canonical filmmaking skills specify creative intentions, world states and shot decisions. An adapter may translate a shot specification into an available camera plan, animation scene, still-generation prompt, video-generation prompt or editing timeline. Keep tool-specific limits and parameter syntax here, not in canonical skills. Verify reference roles, duration constraints, input formats and observed behavior against the selected workflow before committing resources. Report mismatches upstream rather than silently changing the story. Do not claim rendered results when only prompts were written.
+
+For AI filmmaking: approve identity, wardrobe, location and prop assets; use stable IDs; render a shot-specific composition; verify input roles; test hero shots; review motion and identity through the whole clip; trim against the edit map. A generated clip duration may differ from its final edited duration. These are modern operational applications, not claims from the historical books.

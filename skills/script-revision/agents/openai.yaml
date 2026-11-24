@@ -1,0 +1,4 @@
+interface:
+  display_name: Script revision
+  short_description: Diagnose and revise a screenplay at structural, scene and line
+    levels.

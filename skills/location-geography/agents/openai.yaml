@@ -1,0 +1,4 @@
+interface:
+  display_name: Location geography
+  short_description: Plan consistent locations, camera access, environmental landmarks
+    and spatial continuity.

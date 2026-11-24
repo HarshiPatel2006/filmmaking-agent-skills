@@ -1,0 +1,4 @@
+interface:
+  display_name: Shot flow audit
+  short_description: Evaluate adjacent shots as a sequence, diagnosing graphic, spatial,
+    temporal and dramatic connections.

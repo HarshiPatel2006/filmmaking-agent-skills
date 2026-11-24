@@ -1,0 +1,936 @@
+{
+  "mandatory_edges": [],
+  "related_edges": [
+    {
+      "from": "premise-and-logline",
+      "to": "theme-and-motif",
+      "type": "optional-related"
+    },
+    {
+      "from": "premise-and-logline",
+      "to": "conflict-and-stakes",
+      "type": "optional-related"
+    },
+    {
+      "from": "premise-and-logline",
+      "to": "story-architecture",
+      "type": "optional-related"
+    },
+    {
+      "from": "theme-and-motif",
+      "to": "premise-and-logline",
+      "type": "optional-related"
+    },
+    {
+      "from": "theme-and-motif",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "theme-and-motif",
+      "to": "prop-and-costume-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "genre-and-tone",
+      "to": "theme-and-motif",
+      "type": "optional-related"
+    },
+    {
+      "from": "genre-and-tone",
+      "to": "lighting-intent",
+      "type": "optional-related"
+    },
+    {
+      "from": "genre-and-tone",
+      "to": "editing-rhythm",
+      "type": "optional-related"
+    },
+    {
+      "from": "conflict-and-stakes",
+      "to": "character-motivation",
+      "type": "optional-related"
+    },
+    {
+      "from": "conflict-and-stakes",
+      "to": "scene-construction",
+      "type": "optional-related"
+    },
+    {
+      "from": "conflict-and-stakes",
+      "to": "story-architecture",
+      "type": "optional-related"
+    },
+    {
+      "from": "story-architecture",
+      "to": "conflict-and-stakes",
+      "type": "optional-related"
+    },
+    {
+      "from": "story-architecture",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "story-architecture",
+      "to": "scene-construction",
+      "type": "optional-related"
+    },
+    {
+      "from": "visual-information-design",
+      "to": "point-of-view",
+      "type": "optional-related"
+    },
+    {
+      "from": "visual-information-design",
+      "to": "close-ups-and-inserts",
+      "type": "optional-related"
+    },
+    {
+      "from": "visual-information-design",
+      "to": "temporal-editing",
+      "type": "optional-related"
+    },
+    {
+      "from": "scene-construction",
+      "to": "conflict-and-stakes",
+      "type": "optional-related"
+    },
+    {
+      "from": "scene-construction",
+      "to": "dialogue-and-subtext",
+      "type": "optional-related"
+    },
+    {
+      "from": "scene-construction",
+      "to": "directorial-interpretation",
+      "type": "optional-related"
+    },
+    {
+      "from": "dialogue-and-subtext",
+      "to": "scene-construction",
+      "type": "optional-related"
+    },
+    {
+      "from": "dialogue-and-subtext",
+      "to": "performance-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "dialogue-and-subtext",
+      "to": "character-motivation",
+      "type": "optional-related"
+    },
+    {
+      "from": "exposition-and-backstory",
+      "to": "character-backstory",
+      "type": "optional-related"
+    },
+    {
+      "from": "exposition-and-backstory",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "exposition-and-backstory",
+      "to": "temporal-editing",
+      "type": "optional-related"
+    },
+    {
+      "from": "script-revision",
+      "to": "story-architecture",
+      "type": "optional-related"
+    },
+    {
+      "from": "script-revision",
+      "to": "scene-construction",
+      "type": "optional-related"
+    },
+    {
+      "from": "script-revision",
+      "to": "creative-quality-audit",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-motivation",
+      "to": "conflict-and-stakes",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-motivation",
+      "to": "character-arc",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-motivation",
+      "to": "performance-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-arc",
+      "to": "character-motivation",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-arc",
+      "to": "story-architecture",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-arc",
+      "to": "theme-and-motif",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-backstory",
+      "to": "character-motivation",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-backstory",
+      "to": "exposition-and-backstory",
+      "type": "optional-related"
+    },
+    {
+      "from": "character-backstory",
+      "to": "character-arc",
+      "type": "optional-related"
+    },
+    {
+      "from": "performance-direction",
+      "to": "dialogue-and-subtext",
+      "type": "optional-related"
+    },
+    {
+      "from": "performance-direction",
+      "to": "blocking-and-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "performance-direction",
+      "to": "close-ups-and-inserts",
+      "type": "optional-related"
+    },
+    {
+      "from": "directorial-interpretation",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "directorial-interpretation",
+      "to": "blocking-and-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "directorial-interpretation",
+      "to": "coverage-planning",
+      "type": "optional-related"
+    },
+    {
+      "from": "blocking-and-staging",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "blocking-and-staging",
+      "to": "depth-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "blocking-and-staging",
+      "to": "mobile-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "two-person-dialogue",
+      "to": "blocking-and-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "two-person-dialogue",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "two-person-dialogue",
+      "to": "close-ups-and-inserts",
+      "type": "optional-related"
+    },
+    {
+      "from": "group-dialogue-staging",
+      "to": "two-person-dialogue",
+      "type": "optional-related"
+    },
+    {
+      "from": "group-dialogue-staging",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "group-dialogue-staging",
+      "to": "composition-hierarchy",
+      "type": "optional-related"
+    },
+    {
+      "from": "mobile-staging",
+      "to": "blocking-and-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "mobile-staging",
+      "to": "tracking-and-dolly",
+      "type": "optional-related"
+    },
+    {
+      "from": "mobile-staging",
+      "to": "tracking-choreography",
+      "type": "optional-related"
+    },
+    {
+      "from": "shot-size-and-coverage",
+      "to": "camera-angle-and-perspective",
+      "type": "optional-related"
+    },
+    {
+      "from": "shot-size-and-coverage",
+      "to": "close-ups-and-inserts",
+      "type": "optional-related"
+    },
+    {
+      "from": "shot-size-and-coverage",
+      "to": "coverage-planning",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-angle-and-perspective",
+      "to": "point-of-view",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-angle-and-perspective",
+      "to": "shot-size-and-coverage",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-angle-and-perspective",
+      "to": "lens-and-focus",
+      "type": "optional-related"
+    },
+    {
+      "from": "point-of-view",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "point-of-view",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "point-of-view",
+      "to": "close-ups-and-inserts",
+      "type": "optional-related"
+    },
+    {
+      "from": "close-ups-and-inserts",
+      "to": "shot-size-and-coverage",
+      "type": "optional-related"
+    },
+    {
+      "from": "close-ups-and-inserts",
+      "to": "portrait-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "close-ups-and-inserts",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "lens-and-focus",
+      "to": "depth-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "lens-and-focus",
+      "to": "tracking-and-dolly",
+      "type": "optional-related"
+    },
+    {
+      "from": "lens-and-focus",
+      "to": "composition-hierarchy",
+      "type": "optional-related"
+    },
+    {
+      "from": "composition-hierarchy",
+      "to": "depth-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "composition-hierarchy",
+      "to": "lighting-intent",
+      "type": "optional-related"
+    },
+    {
+      "from": "composition-hierarchy",
+      "to": "open-closed-framing",
+      "type": "optional-related"
+    },
+    {
+      "from": "depth-staging",
+      "to": "lens-and-focus",
+      "type": "optional-related"
+    },
+    {
+      "from": "depth-staging",
+      "to": "composition-hierarchy",
+      "type": "optional-related"
+    },
+    {
+      "from": "depth-staging",
+      "to": "subject-separation",
+      "type": "optional-related"
+    },
+    {
+      "from": "open-closed-framing",
+      "to": "composition-hierarchy",
+      "type": "optional-related"
+    },
+    {
+      "from": "open-closed-framing",
+      "to": "point-of-view",
+      "type": "optional-related"
+    },
+    {
+      "from": "open-closed-framing",
+      "to": "frame-format",
+      "type": "optional-related"
+    },
+    {
+      "from": "frame-format",
+      "to": "composition-hierarchy",
+      "type": "optional-related"
+    },
+    {
+      "from": "frame-format",
+      "to": "open-closed-framing",
+      "type": "optional-related"
+    },
+    {
+      "from": "frame-format",
+      "to": "storyboard-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-movement-intent",
+      "to": "pan-and-tilt",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-movement-intent",
+      "to": "tracking-and-dolly",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-movement-intent",
+      "to": "tracking-choreography",
+      "type": "optional-related"
+    },
+    {
+      "from": "pan-and-tilt",
+      "to": "camera-movement-intent",
+      "type": "optional-related"
+    },
+    {
+      "from": "pan-and-tilt",
+      "to": "composition-hierarchy",
+      "type": "optional-related"
+    },
+    {
+      "from": "pan-and-tilt",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "tracking-and-dolly",
+      "to": "camera-movement-intent",
+      "type": "optional-related"
+    },
+    {
+      "from": "tracking-and-dolly",
+      "to": "lens-and-focus",
+      "type": "optional-related"
+    },
+    {
+      "from": "tracking-and-dolly",
+      "to": "tracking-choreography",
+      "type": "optional-related"
+    },
+    {
+      "from": "tracking-choreography",
+      "to": "mobile-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "tracking-choreography",
+      "to": "tracking-and-dolly",
+      "type": "optional-related"
+    },
+    {
+      "from": "tracking-choreography",
+      "to": "coverage-planning",
+      "type": "optional-related"
+    },
+    {
+      "from": "lighting-intent",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "lighting-intent",
+      "to": "selective-light-and-shadow",
+      "type": "optional-related"
+    },
+    {
+      "from": "lighting-intent",
+      "to": "lighting-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "motivated-lighting",
+      "to": "lighting-intent",
+      "type": "optional-related"
+    },
+    {
+      "from": "motivated-lighting",
+      "to": "portrait-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "motivated-lighting",
+      "to": "lighting-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "selective-light-and-shadow",
+      "to": "lighting-intent",
+      "type": "optional-related"
+    },
+    {
+      "from": "selective-light-and-shadow",
+      "to": "subject-separation",
+      "type": "optional-related"
+    },
+    {
+      "from": "selective-light-and-shadow",
+      "to": "mystery-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "portrait-lighting",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "portrait-lighting",
+      "to": "subject-separation",
+      "type": "optional-related"
+    },
+    {
+      "from": "portrait-lighting",
+      "to": "close-ups-and-inserts",
+      "type": "optional-related"
+    },
+    {
+      "from": "subject-separation",
+      "to": "depth-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "subject-separation",
+      "to": "composition-hierarchy",
+      "type": "optional-related"
+    },
+    {
+      "from": "subject-separation",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "lighting-continuity",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "lighting-continuity",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "lighting-continuity",
+      "to": "creative-quality-audit",
+      "type": "optional-related"
+    },
+    {
+      "from": "mystery-lighting",
+      "to": "selective-light-and-shadow",
+      "type": "optional-related"
+    },
+    {
+      "from": "mystery-lighting",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "mystery-lighting",
+      "to": "night-and-street-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "night-and-street-lighting",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "night-and-street-lighting",
+      "to": "mystery-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "night-and-street-lighting",
+      "to": "weather-and-atmosphere",
+      "type": "optional-related"
+    },
+    {
+      "from": "weather-and-atmosphere",
+      "to": "night-and-street-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "weather-and-atmosphere",
+      "to": "depth-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "weather-and-atmosphere",
+      "to": "lighting-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "fire-and-practical-effects",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "fire-and-practical-effects",
+      "to": "lighting-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "fire-and-practical-effects",
+      "to": "weather-and-atmosphere",
+      "type": "optional-related"
+    },
+    {
+      "from": "exterior-lighting",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "exterior-lighting",
+      "to": "lighting-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "exterior-lighting",
+      "to": "weather-and-atmosphere",
+      "type": "optional-related"
+    },
+    {
+      "from": "production-design-brief",
+      "to": "location-geography",
+      "type": "optional-related"
+    },
+    {
+      "from": "production-design-brief",
+      "to": "prop-and-costume-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "production-design-brief",
+      "to": "storyboard-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "location-geography",
+      "to": "blocking-and-staging",
+      "type": "optional-related"
+    },
+    {
+      "from": "location-geography",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "location-geography",
+      "to": "camera-angle-projection",
+      "type": "optional-related"
+    },
+    {
+      "from": "prop-and-costume-continuity",
+      "to": "theme-and-motif",
+      "type": "optional-related"
+    },
+    {
+      "from": "prop-and-costume-continuity",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "prop-and-costume-continuity",
+      "to": "production-design-brief",
+      "type": "optional-related"
+    },
+    {
+      "from": "look-development",
+      "to": "production-design-brief",
+      "type": "optional-related"
+    },
+    {
+      "from": "look-development",
+      "to": "lighting-intent",
+      "type": "optional-related"
+    },
+    {
+      "from": "look-development",
+      "to": "frame-format",
+      "type": "optional-related"
+    },
+    {
+      "from": "storyboard-design",
+      "to": "directorial-interpretation",
+      "type": "optional-related"
+    },
+    {
+      "from": "storyboard-design",
+      "to": "coverage-planning",
+      "type": "optional-related"
+    },
+    {
+      "from": "storyboard-design",
+      "to": "editing-rhythm",
+      "type": "optional-related"
+    },
+    {
+      "from": "coverage-planning",
+      "to": "shot-size-and-coverage",
+      "type": "optional-related"
+    },
+    {
+      "from": "coverage-planning",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "coverage-planning",
+      "to": "shot-flow-audit",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-angle-projection",
+      "to": "location-geography",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-angle-projection",
+      "to": "lens-and-focus",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-angle-projection",
+      "to": "storyboard-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "animatic-and-shot-flow",
+      "to": "storyboard-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "animatic-and-shot-flow",
+      "to": "editing-rhythm",
+      "type": "optional-related"
+    },
+    {
+      "from": "animatic-and-shot-flow",
+      "to": "shot-flow-audit",
+      "type": "optional-related"
+    },
+    {
+      "from": "screen-direction",
+      "to": "location-geography",
+      "type": "optional-related"
+    },
+    {
+      "from": "screen-direction",
+      "to": "two-person-dialogue",
+      "type": "optional-related"
+    },
+    {
+      "from": "screen-direction",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "action-continuity",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "action-continuity",
+      "to": "prop-and-costume-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "action-continuity",
+      "to": "cutting-on-action",
+      "type": "optional-related"
+    },
+    {
+      "from": "temporal-editing",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "temporal-editing",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "temporal-editing",
+      "to": "transitions-and-montage",
+      "type": "optional-related"
+    },
+    {
+      "from": "cutting-on-action",
+      "to": "action-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "cutting-on-action",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "cutting-on-action",
+      "to": "editing-rhythm",
+      "type": "optional-related"
+    },
+    {
+      "from": "editing-rhythm",
+      "to": "animatic-and-shot-flow",
+      "type": "optional-related"
+    },
+    {
+      "from": "editing-rhythm",
+      "to": "temporal-editing",
+      "type": "optional-related"
+    },
+    {
+      "from": "editing-rhythm",
+      "to": "transitions-and-montage",
+      "type": "optional-related"
+    },
+    {
+      "from": "transitions-and-montage",
+      "to": "temporal-editing",
+      "type": "optional-related"
+    },
+    {
+      "from": "transitions-and-montage",
+      "to": "editing-rhythm",
+      "type": "optional-related"
+    },
+    {
+      "from": "transitions-and-montage",
+      "to": "visual-information-design",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-preflight",
+      "to": "lens-and-focus",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-preflight",
+      "to": "motivated-lighting",
+      "type": "optional-related"
+    },
+    {
+      "from": "camera-preflight",
+      "to": "location-sound",
+      "type": "optional-related"
+    },
+    {
+      "from": "location-sound",
+      "to": "camera-preflight",
+      "type": "optional-related"
+    },
+    {
+      "from": "location-sound",
+      "to": "event-and-interview-coverage",
+      "type": "optional-related"
+    },
+    {
+      "from": "location-sound",
+      "to": "editing-rhythm",
+      "type": "optional-related"
+    },
+    {
+      "from": "event-and-interview-coverage",
+      "to": "location-sound",
+      "type": "optional-related"
+    },
+    {
+      "from": "event-and-interview-coverage",
+      "to": "coverage-planning",
+      "type": "optional-related"
+    },
+    {
+      "from": "event-and-interview-coverage",
+      "to": "point-of-view",
+      "type": "optional-related"
+    },
+    {
+      "from": "creative-quality-audit",
+      "to": "script-revision",
+      "type": "optional-related"
+    },
+    {
+      "from": "creative-quality-audit",
+      "to": "shot-flow-audit",
+      "type": "optional-related"
+    },
+    {
+      "from": "creative-quality-audit",
+      "to": "lighting-continuity",
+      "type": "optional-related"
+    },
+    {
+      "from": "shot-flow-audit",
+      "to": "screen-direction",
+      "type": "optional-related"
+    },
+    {
+      "from": "shot-flow-audit",
+      "to": "editing-rhythm",
+      "type": "optional-related"
+    },
+    {
+      "from": "shot-flow-audit",
+      "to": "creative-quality-audit",
+      "type": "optional-related"
+    }
+  ],
+  "note": "Optional reciprocal relationships are intentional. All individual skills are independently usable."
+}

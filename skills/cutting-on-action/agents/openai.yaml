@@ -1,0 +1,4 @@
+interface:
+  display_name: Cutting on action
+  short_description: Choose and refine cuts that continue movement, preserve direction
+    and transfer attention smoothly.
